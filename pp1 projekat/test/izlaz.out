@@ -1,0 +1,3498 @@
+INFO  14:41:17,222 - Compiling source file: C:\Users\Uros\eclipse-workspace\MJCompiler\test\program.mj
+INFO  14:41:17,249 - #2 program
+INFO  14:41:17,249 - #15 test302
+INFO  14:41:17,249 - #28 const
+INFO  14:41:17,250 - #15 int
+INFO  14:41:17,250 - #15 jedan
+INFO  14:41:17,250 - #8 =
+INFO  14:41:17,250 - #14 1
+INFO  14:41:17,251 - #5 ;
+INFO  14:41:17,251 - #15 int
+INFO  14:41:17,252 - #15 i
+INFO  14:41:17,252 - #5 ;
+INFO  14:41:17,252 - #15 bool
+INFO  14:41:17,252 - #15 ibool
+INFO  14:41:17,252 - #5 ;
+INFO  14:41:17,252 - #15 int
+INFO  14:41:17,252 - #15 niz
+INFO  14:41:17,252 - #32 [
+INFO  14:41:17,252 - #41 ]
+INFO  14:41:17,252 - #5 ;
+INFO  14:41:17,252 - #3 {
+INFO  14:41:17,252 - #15 int
+INFO  14:41:17,253 - #15 sum
+INFO  14:41:17,254 - #6 (
+INFO  14:41:17,254 - #15 int
+INFO  14:41:17,254 - #15 z
+INFO  14:41:17,254 - #11 ,
+INFO  14:41:17,254 - #15 int
+INFO  14:41:17,254 - #15 d
+INFO  14:41:17,254 - #7 )
+INFO  14:41:17,254 - #3 {
+INFO  14:41:17,255 - #9 return
+INFO  14:41:17,255 - #15 z
+INFO  14:41:17,256 - #10 +
+INFO  14:41:17,256 - #15 d
+INFO  14:41:17,256 - #5 ;
+INFO  14:41:17,257 - #4 }
+INFO  14:41:17,257 - #15 int
+INFO  14:41:17,257 - #15 inkrement
+INFO  14:41:17,257 - #6 (
+INFO  14:41:17,257 - #15 int
+INFO  14:41:17,257 - #15 a
+INFO  14:41:17,257 - #11 ,
+INFO  14:41:17,257 - #15 int
+INFO  14:41:17,257 - #15 inc
+INFO  14:41:17,257 - #7 )
+INFO  14:41:17,258 - #15 int
+INFO  14:41:17,258 - #15 pom
+INFO  14:41:17,258 - #5 ;
+INFO  14:41:17,258 - #3 {
+INFO  14:41:17,258 - #16 if
+INFO  14:41:17,258 - #6 (
+INFO  14:41:17,258 - #15 inc
+INFO  14:41:17,258 - #43 ==
+INFO  14:41:17,258 - #15 jedan
+INFO  14:41:17,258 - #7 )
+INFO  14:41:17,259 - #15 pom
+INFO  14:41:17,259 - #8 =
+INFO  14:41:17,259 - #14 1
+INFO  14:41:17,259 - #5 ;
+INFO  14:41:17,259 - #17 else
+INFO  14:41:17,259 - #16 if
+INFO  14:41:17,260 - #6 (
+INFO  14:41:17,260 - #15 inc
+INFO  14:41:17,260 - #43 ==
+INFO  14:41:17,260 - #14 2
+INFO  14:41:17,260 - #7 )
+INFO  14:41:17,260 - #15 pom
+INFO  14:41:17,260 - #8 =
+INFO  14:41:17,260 - #15 a
+INFO  14:41:17,260 - #5 ;
+INFO  14:41:17,260 - #9 return
+INFO  14:41:17,260 - #15 sum
+INFO  14:41:17,260 - #6 (
+INFO  14:41:17,260 - #15 a
+INFO  14:41:17,260 - #11 ,
+INFO  14:41:17,260 - #15 pom
+INFO  14:41:17,260 - #7 )
+INFO  14:41:17,260 - #5 ;
+INFO  14:41:17,261 - #4 }
+INFO  14:41:17,261 - #15 bool
+INFO  14:41:17,261 - #15 verify
+INFO  14:41:17,261 - #6 (
+INFO  14:41:17,261 - #7 )
+INFO  14:41:17,261 - #3 {
+INFO  14:41:17,261 - #12 print
+INFO  14:41:17,261 - #6 (
+INFO  14:41:17,261 - #47 v
+INFO  14:41:17,261 - #7 )
+INFO  14:41:17,262 - #5 ;
+INFO  14:41:17,262 - #9 return
+INFO  14:41:17,263 - #46 0
+INFO  14:41:17,263 - #5 ;
+INFO  14:41:17,263 - #4 }
+INFO  14:41:17,263 - #13 void
+INFO  14:41:17,263 - #15 main
+INFO  14:41:17,263 - #6 (
+INFO  14:41:17,263 - #7 )
+INFO  14:41:17,263 - #3 {
+INFO  14:41:17,263 - #16 if
+INFO  14:41:17,263 - #6 (
+INFO  14:41:17,263 - #14 1
+INFO  14:41:17,263 - #29 !=
+INFO  14:41:17,263 - #14 1
+INFO  14:41:17,263 - #7 )
+INFO  14:41:17,263 - #12 print
+INFO  14:41:17,263 - #6 (
+INFO  14:41:17,263 - #25 -
+INFO  14:41:17,264 - #14 6
+INFO  14:41:17,264 - #7 )
+INFO  14:41:17,264 - #5 ;
+INFO  14:41:17,264 - #17 else
+INFO  14:41:17,264 - #12 print
+INFO  14:41:17,264 - #6 (
+INFO  14:41:17,264 - #14 0
+INFO  14:41:17,264 - #7 )
+INFO  14:41:17,264 - #5 ;
+INFO  14:41:17,264 - #15 ibool
+INFO  14:41:17,264 - #8 =
+INFO  14:41:17,264 - #46 0
+INFO  14:41:17,264 - #5 ;
+INFO  14:41:17,264 - #15 i
+INFO  14:41:17,264 - #8 =
+INFO  14:41:17,264 - #14 0
+INFO  14:41:17,264 - #5 ;
+INFO  14:41:17,264 - #19 for
+INFO  14:41:17,264 - #6 (
+INFO  14:41:17,265 - #15 i
+INFO  14:41:17,265 - #8 =
+INFO  14:41:17,265 - #14 0
+INFO  14:41:17,265 - #5 ;
+INFO  14:41:17,265 - #15 i
+INFO  14:41:17,265 - #31 <
+INFO  14:41:17,265 - #14 5
+INFO  14:41:17,265 - #5 ;
+INFO  14:41:17,265 - #15 i
+INFO  14:41:17,266 - #27 ++
+INFO  14:41:17,266 - #7 )
+INFO  14:41:17,267 - #3 {
+INFO  14:41:17,267 - #16 if
+INFO  14:41:17,267 - #6 (
+INFO  14:41:17,267 - #15 i
+INFO  14:41:17,267 - #43 ==
+INFO  14:41:17,267 - #14 2
+INFO  14:41:17,267 - #7 )
+INFO  14:41:17,267 - #15 ibool
+INFO  14:41:17,267 - #8 =
+INFO  14:41:17,267 - #46 1
+INFO  14:41:17,267 - #5 ;
+INFO  14:41:17,267 - #4 }
+INFO  14:41:17,267 - #16 if
+INFO  14:41:17,268 - #6 (
+INFO  14:41:17,268 - #15 ibool
+INFO  14:41:17,268 - #7 )
+INFO  14:41:17,268 - #16 if
+INFO  14:41:17,268 - #6 (
+INFO  14:41:17,268 - #15 i
+INFO  14:41:17,268 - #43 ==
+INFO  14:41:17,268 - #14 5
+INFO  14:41:17,268 - #7 )
+INFO  14:41:17,268 - #12 print
+INFO  14:41:17,268 - #6 (
+INFO  14:41:17,268 - #14 1
+INFO  14:41:17,268 - #7 )
+INFO  14:41:17,268 - #5 ;
+INFO  14:41:17,268 - #17 else
+INFO  14:41:17,268 - #12 print
+INFO  14:41:17,268 - #6 (
+INFO  14:41:17,268 - #25 -
+INFO  14:41:17,268 - #14 1
+INFO  14:41:17,268 - #7 )
+INFO  14:41:17,268 - #5 ;
+INFO  14:41:17,268 - #15 niz
+INFO  14:41:17,268 - #8 =
+INFO  14:41:17,268 - #20 new
+INFO  14:41:17,268 - #15 int
+INFO  14:41:17,268 - #32 [
+INFO  14:41:17,268 - #14 3
+INFO  14:41:17,268 - #41 ]
+INFO  14:41:17,268 - #5 ;
+INFO  14:41:17,268 - #15 niz
+INFO  14:41:17,268 - #32 [
+INFO  14:41:17,269 - #14 0
+INFO  14:41:17,269 - #41 ]
+INFO  14:41:17,269 - #8 =
+INFO  14:41:17,269 - #14 1
+INFO  14:41:17,269 - #5 ;
+INFO  14:41:17,269 - #15 niz
+INFO  14:41:17,269 - #32 [
+INFO  14:41:17,269 - #14 1
+INFO  14:41:17,269 - #41 ]
+INFO  14:41:17,269 - #8 =
+INFO  14:41:17,269 - #14 2
+INFO  14:41:17,269 - #5 ;
+INFO  14:41:17,269 - #15 niz
+INFO  14:41:17,269 - #32 [
+INFO  14:41:17,269 - #14 2
+INFO  14:41:17,269 - #41 ]
+INFO  14:41:17,269 - #8 =
+INFO  14:41:17,269 - #15 sum
+INFO  14:41:17,269 - #6 (
+INFO  14:41:17,269 - #15 niz
+INFO  14:41:17,269 - #32 [
+INFO  14:41:17,269 - #14 1
+INFO  14:41:17,269 - #41 ]
+INFO  14:41:17,269 - #11 ,
+INFO  14:41:17,270 - #15 niz
+INFO  14:41:17,270 - #32 [
+INFO  14:41:17,270 - #14 0
+INFO  14:41:17,270 - #41 ]
+INFO  14:41:17,270 - #7 )
+INFO  14:41:17,270 - #10 +
+INFO  14:41:17,270 - #14 1
+INFO  14:41:17,270 - #5 ;
+INFO  14:41:17,270 - #16 if
+INFO  14:41:17,270 - #6 (
+INFO  14:41:17,270 - #15 niz
+INFO  14:41:17,270 - #32 [
+INFO  14:41:17,270 - #14 2
+INFO  14:41:17,270 - #41 ]
+INFO  14:41:17,270 - #43 ==
+INFO  14:41:17,270 - #14 4
+INFO  14:41:17,270 - #45 ||
+INFO  14:41:17,270 - #15 verify
+INFO  14:41:17,270 - #6 (
+INFO  14:41:17,270 - #7 )
+INFO  14:41:17,270 - #7 )
+INFO  14:41:17,271 - #12 print
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #15 ord
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #47 A
+INFO  14:41:17,271 - #7 )
+INFO  14:41:17,271 - #7 )
+INFO  14:41:17,271 - #5 ;
+INFO  14:41:17,271 - #17 else
+INFO  14:41:17,271 - #12 print
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #15 ord
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #47 a
+INFO  14:41:17,271 - #7 )
+INFO  14:41:17,271 - #7 )
+INFO  14:41:17,271 - #5 ;
+INFO  14:41:17,271 - #12 print
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #15 eol
+INFO  14:41:17,271 - #7 )
+INFO  14:41:17,271 - #5 ;
+INFO  14:41:17,271 - #15 i
+INFO  14:41:17,271 - #8 =
+INFO  14:41:17,271 - #14 0
+INFO  14:41:17,271 - #5 ;
+INFO  14:41:17,271 - #19 for
+INFO  14:41:17,271 - #6 (
+INFO  14:41:17,271 - #5 ;
+INFO  14:41:17,272 - #15 i
+INFO  14:41:17,272 - #31 <
+INFO  14:41:17,272 - #14 10
+INFO  14:41:17,272 - #5 ;
+INFO  14:41:17,272 - #7 )
+INFO  14:41:17,273 - #3 {
+INFO  14:41:17,273 - #16 if
+INFO  14:41:17,273 - #6 (
+INFO  14:41:17,273 - #15 i
+INFO  14:41:17,273 - #43 ==
+INFO  14:41:17,273 - #14 3
+INFO  14:41:17,273 - #7 )
+INFO  14:41:17,273 - #3 {
+INFO  14:41:17,273 - #15 i
+INFO  14:41:17,273 - #27 ++
+INFO  14:41:17,273 - #5 ;
+INFO  14:41:17,273 - #44 continue
+INFO  14:41:17,273 - #5 ;
+INFO  14:41:17,273 - #4 }
+INFO  14:41:17,274 - #16 if
+INFO  14:41:17,274 - #6 (
+INFO  14:41:17,274 - #15 i
+INFO  14:41:17,274 - #43 ==
+INFO  14:41:17,274 - #14 4
+INFO  14:41:17,274 - #7 )
+INFO  14:41:17,274 - #37 break
+INFO  14:41:17,274 - #5 ;
+INFO  14:41:17,274 - #15 i
+INFO  14:41:17,274 - #8 =
+INFO  14:41:17,274 - #15 inkrement
+INFO  14:41:17,274 - #6 (
+INFO  14:41:17,274 - #15 i
+INFO  14:41:17,274 - #11 ,
+INFO  14:41:17,274 - #14 1
+INFO  14:41:17,274 - #7 )
+INFO  14:41:17,274 - #5 ;
+INFO  14:41:17,275 - #4 }
+INFO  14:41:17,275 - #16 if
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #15 i
+INFO  14:41:17,275 - #43 ==
+INFO  14:41:17,275 - #14 3
+INFO  14:41:17,275 - #30 &&
+INFO  14:41:17,275 - #15 verify
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #12 print
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #14 4
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #5 ;
+INFO  14:41:17,275 - #17 else
+INFO  14:41:17,275 - #12 print
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #25 -
+INFO  14:41:17,275 - #14 4
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #5 ;
+INFO  14:41:17,275 - #39 read
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #15 niz
+INFO  14:41:17,275 - #32 [
+INFO  14:41:17,275 - #14 0
+INFO  14:41:17,275 - #41 ]
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #5 ;
+INFO  14:41:17,275 - #39 read
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #15 niz
+INFO  14:41:17,275 - #32 [
+INFO  14:41:17,275 - #14 1
+INFO  14:41:17,275 - #41 ]
+INFO  14:41:17,275 - #7 )
+INFO  14:41:17,275 - #5 ;
+INFO  14:41:17,275 - #39 read
+INFO  14:41:17,275 - #6 (
+INFO  14:41:17,275 - #15 niz
+INFO  14:41:17,275 - #32 [
+INFO  14:41:17,276 - #14 2
+INFO  14:41:17,276 - #41 ]
+INFO  14:41:17,276 - #7 )
+INFO  14:41:17,276 - #5 ;
+INFO  14:41:17,276 - #12 print
+INFO  14:41:17,276 - #6 (
+INFO  14:41:17,276 - #15 eol
+INFO  14:41:17,276 - #7 )
+INFO  14:41:17,276 - #5 ;
+INFO  14:41:17,276 - #12 print
+INFO  14:41:17,276 - #6 (
+INFO  14:41:17,276 - #15 sum
+INFO  14:41:17,276 - #6 (
+INFO  14:41:17,276 - #15 sum
+INFO  14:41:17,276 - #6 (
+INFO  14:41:17,276 - #15 niz
+INFO  14:41:17,276 - #32 [
+INFO  14:41:17,276 - #14 0
+INFO  14:41:17,276 - #41 ]
+INFO  14:41:17,276 - #11 ,
+INFO  14:41:17,276 - #15 niz
+INFO  14:41:17,276 - #32 [
+INFO  14:41:17,276 - #14 1
+INFO  14:41:17,276 - #41 ]
+INFO  14:41:17,276 - #7 )
+INFO  14:41:17,276 - #11 ,
+INFO  14:41:17,276 - #15 niz
+INFO  14:41:17,276 - #32 [
+INFO  14:41:17,276 - #14 2
+INFO  14:41:17,276 - #41 ]
+INFO  14:41:17,276 - #7 )
+INFO  14:41:17,276 - #7 )
+INFO  14:41:17,276 - #5 ;
+INFO  14:41:17,276 - #19 for
+INFO  14:41:17,276 - #6 (
+INFO  14:41:17,276 - #15 i
+INFO  14:41:17,276 - #8 =
+INFO  14:41:17,276 - #14 0
+INFO  14:41:17,276 - #5 ;
+INFO  14:41:17,276 - #15 i
+INFO  14:41:17,276 - #31 <
+INFO  14:41:17,276 - #15 niz
+INFO  14:41:17,276 - #21 .
+INFO  14:41:17,276 - #22 length
+INFO  14:41:17,276 - #5 ;
+INFO  14:41:17,276 - #15 i
+INFO  14:41:17,277 - #27 ++
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #3 {
+INFO  14:41:17,277 - #12 print
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #15 i
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #5 ;
+INFO  14:41:17,277 - #4 }
+INFO  14:41:17,277 - #12 print
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #15 eol
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #5 ;
+INFO  14:41:17,277 - #12 print
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #15 inkrement
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #15 niz
+INFO  14:41:17,277 - #32 [
+INFO  14:41:17,277 - #14 2
+INFO  14:41:17,277 - #41 ]
+INFO  14:41:17,277 - #11 ,
+INFO  14:41:17,277 - #14 2
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #5 ;
+INFO  14:41:17,277 - #12 print
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #15 verify
+INFO  14:41:17,277 - #6 (
+INFO  14:41:17,277 - #7 )
+INFO  14:41:17,277 - #48 ?
+INFO  14:41:17,277 - #47 t
+INFO  14:41:17,278 - #18 :
+INFO  14:41:17,278 - #47 f
+INFO  14:41:17,278 - #7 )
+INFO  14:41:17,278 - #5 ;
+INFO  14:41:17,278 - #19 for
+INFO  14:41:17,278 - #6 (
+INFO  14:41:17,279 - #15 i
+INFO  14:41:17,279 - #8 =
+INFO  14:41:17,279 - #14 0
+INFO  14:41:17,279 - #5 ;
+INFO  14:41:17,279 - #15 i
+INFO  14:41:17,279 - #31 <
+INFO  14:41:17,279 - #14 10
+INFO  14:41:17,279 - #5 ;
+INFO  14:41:17,279 - #15 i
+INFO  14:41:17,279 - #27 ++
+INFO  14:41:17,279 - #7 )
+INFO  14:41:17,279 - #3 {
+INFO  14:41:17,279 - #24 switch
+INFO  14:41:17,279 - #6 (
+INFO  14:41:17,279 - #15 i
+INFO  14:41:17,279 - #10 +
+INFO  14:41:17,279 - #14 1
+INFO  14:41:17,279 - #7 )
+INFO  14:41:17,279 - #3 {
+INFO  14:41:17,279 - #38 case
+INFO  14:41:17,279 - #14 1
+INFO  14:41:17,280 - #18 :
+INFO  14:41:17,280 - #12 print
+INFO  14:41:17,280 - #6 (
+INFO  14:41:17,280 - #14 1
+INFO  14:41:17,280 - #7 )
+INFO  14:41:17,280 - #5 ;
+INFO  14:41:17,280 - #37 break
+INFO  14:41:17,280 - #5 ;
+INFO  14:41:17,280 - #38 case
+INFO  14:41:17,281 - #14 3
+INFO  14:41:17,281 - #18 :
+INFO  14:41:17,281 - #12 print
+INFO  14:41:17,281 - #6 (
+INFO  14:41:17,281 - #14 3
+INFO  14:41:17,281 - #7 )
+INFO  14:41:17,281 - #5 ;
+INFO  14:41:17,281 - #38 case
+INFO  14:41:17,281 - #14 2
+INFO  14:41:17,281 - #18 :
+INFO  14:41:17,281 - #12 print
+INFO  14:41:17,281 - #6 (
+INFO  14:41:17,281 - #14 2
+INFO  14:41:17,281 - #7 )
+INFO  14:41:17,281 - #5 ;
+INFO  14:41:17,281 - #37 break
+INFO  14:41:17,281 - #5 ;
+INFO  14:41:17,281 - #38 case
+INFO  14:41:17,281 - #14 5
+INFO  14:41:17,281 - #18 :
+INFO  14:41:17,281 - #12 print
+INFO  14:41:17,281 - #6 (
+INFO  14:41:17,281 - #14 5
+INFO  14:41:17,281 - #7 )
+INFO  14:41:17,281 - #5 ;
+INFO  14:41:17,281 - #15 i
+INFO  14:41:17,281 - #8 =
+INFO  14:41:17,281 - #15 i
+INFO  14:41:17,281 - #10 +
+INFO  14:41:17,281 - #14 2
+INFO  14:41:17,282 - #5 ;
+INFO  14:41:17,282 - #44 continue
+INFO  14:41:17,282 - #5 ;
+INFO  14:41:17,282 - #38 case
+INFO  14:41:17,282 - #14 6
+INFO  14:41:17,282 - #18 :
+INFO  14:41:17,282 - #12 print
+INFO  14:41:17,282 - #6 (
+INFO  14:41:17,282 - #14 6
+INFO  14:41:17,282 - #7 )
+INFO  14:41:17,282 - #5 ;
+INFO  14:41:17,282 - #38 case
+INFO  14:41:17,282 - #14 9
+INFO  14:41:17,282 - #18 :
+INFO  14:41:17,282 - #12 print
+INFO  14:41:17,282 - #6 (
+INFO  14:41:17,282 - #14 9
+INFO  14:41:17,282 - #7 )
+INFO  14:41:17,282 - #5 ;
+INFO  14:41:17,282 - #4 }
+INFO  14:41:17,282 - #12 print
+INFO  14:41:17,282 - #6 (
+INFO  14:41:17,282 - #15 eol
+INFO  14:41:17,282 - #7 )
+INFO  14:41:17,282 - #5 ;
+INFO  14:41:17,282 - #4 }
+INFO  14:41:17,282 - #4 }
+INFO  14:41:17,282 - #4 }
+INFO  14:41:17,311 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  ConstVarEnumDeclListV(
+    ConstVarEnumDeclListV(
+      ConstVarEnumDeclListV(
+        ConstVarEnumDeclListC(
+          NoConstVarEnumDeclList(
+          ) [NoConstVarEnumDeclList]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstFirst(
+             jedan
+              ConstTypeN(
+               1
+              ) [ConstTypeN]
+            ) [ConstFirst]
+            NoConstNext(
+            ) [NoConstNext]
+          ) [ConstDecl]
+        ) [ConstVarEnumDeclListC]
+        VarDecl1(
+          Type(
+           int
+          ) [Type]
+          VarIdentListEnd(
+            VarIdent1(
+             i
+            ) [VarIdent1]
+          ) [VarIdentListEnd]
+        ) [VarDecl1]
+      ) [ConstVarEnumDeclListV]
+      VarDecl1(
+        Type(
+         bool
+        ) [Type]
+        VarIdentListEnd(
+          VarIdent1(
+           ibool
+          ) [VarIdent1]
+        ) [VarIdentListEnd]
+      ) [VarDecl1]
+    ) [ConstVarEnumDeclListV]
+    VarDecl1(
+      Type(
+       int
+      ) [Type]
+      VarIdentListEnd(
+        VarIdent2(
+         niz
+        ) [VarIdent2]
+      ) [VarIdentListEnd]
+    ) [VarDecl1]
+  ) [ConstVarEnumDeclListV]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDecl(
+            MethodRetAndNameType(
+              Type(
+               int
+              ) [Type]
+             sum
+            ) [MethodRetAndNameType]
+            FormParams(
+              FormalParamDecls(
+                SingleFormalParamDecl(
+                  FormalParamDecl1(
+                    Type(
+                     int
+                    ) [Type]
+                   z
+                  ) [FormalParamDecl1]
+                ) [SingleFormalParamDecl]
+                FormalParamDecl1(
+                  Type(
+                   int
+                  ) [Type]
+                 d
+                ) [FormalParamDecl1]
+              ) [FormalParamDecls]
+            ) [FormParams]
+            NoVarDecl(
+            ) [NoVarDecl]
+            MethHelp(
+            ) [MethHelp]
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              MatchedStmt(
+                ReturnExpr(
+                  Expr(
+                    ConditionalExpr1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact2(
+                            SimpleExpr2(
+                              SimpleExpr1(
+                                Term1(
+                                  Var(
+                                    DesignatorIdent(
+                                     z
+                                    ) [DesignatorIdent]
+                                  ) [Var]
+                                ) [Term1]
+                              ) [SimpleExpr1]
+                              Addop1(
+                              ) [Addop1]
+                              Term1(
+                                Var(
+                                  DesignatorIdent(
+                                   d
+                                  ) [DesignatorIdent]
+                                ) [Var]
+                              ) [Term1]
+                            ) [SimpleExpr2]
+                          ) [CondFact2]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionalExpr1]
+                  ) [Expr]
+                ) [ReturnExpr]
+              ) [MatchedStmt]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [MethodDeclarations]
+        MethodDecl(
+          MethodRetAndNameType(
+            Type(
+             int
+            ) [Type]
+           inkrement
+          ) [MethodRetAndNameType]
+          FormParams(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDecl1(
+                  Type(
+                   int
+                  ) [Type]
+                 a
+                ) [FormalParamDecl1]
+              ) [SingleFormalParamDecl]
+              FormalParamDecl1(
+                Type(
+                 int
+                ) [Type]
+               inc
+              ) [FormalParamDecl1]
+            ) [FormalParamDecls]
+          ) [FormParams]
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDecl1(
+              Type(
+               int
+              ) [Type]
+              VarIdentListEnd(
+                VarIdent1(
+                 pom
+                ) [VarIdent1]
+              ) [VarIdentListEnd]
+            ) [VarDecl1]
+          ) [VarDeclarations]
+          MethHelp(
+          ) [MethHelp]
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              UnmatchedStmt(
+                UnmatchedIfElse(
+                  ConditionH1(
+                    Empty(
+                    ) [Empty]
+                    ConditionStart(
+                      CondTermStart(
+                        CondFact1(
+                          SimpleExpr1(
+                            Term1(
+                              Var(
+                                DesignatorIdent(
+                                 inc
+                                ) [DesignatorIdent]
+                              ) [Var]
+                            ) [Term1]
+                          ) [SimpleExpr1]
+                          RelopEq(
+                          ) [RelopEq]
+                          SimpleExpr1(
+                            Term1(
+                              Var(
+                                DesignatorIdent(
+                                 jedan
+                                ) [DesignatorIdent]
+                              ) [Var]
+                            ) [Term1]
+                          ) [SimpleExpr1]
+                        ) [CondFact1]
+                      ) [CondTermStart]
+                    ) [ConditionStart]
+                  ) [ConditionH1]
+                  Assignment(
+                    DesignatorStatementExpr(
+                      DesignatorIdent(
+                       pom
+                      ) [DesignatorIdent]
+                      Assignop(
+                      ) [Assignop]
+                      Expr(
+                        ConditionalExpr1(
+                          Empty(
+                          ) [Empty]
+                          ConditionStart(
+                            CondTermStart(
+                              CondFact2(
+                                SimpleExpr1(
+                                  Term1(
+                                    NumConst(
+                                     1
+                                    ) [NumConst]
+                                  ) [Term1]
+                                ) [SimpleExpr1]
+                              ) [CondFact2]
+                            ) [CondTermStart]
+                          ) [ConditionStart]
+                        ) [ConditionalExpr1]
+                      ) [Expr]
+                    ) [DesignatorStatementExpr]
+                  ) [Assignment]
+                  Else(
+                  ) [Else]
+                  UnmatchedIf(
+                    ConditionH1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact1(
+                            SimpleExpr1(
+                              Term1(
+                                Var(
+                                  DesignatorIdent(
+                                   inc
+                                  ) [DesignatorIdent]
+                                ) [Var]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                            RelopEq(
+                            ) [RelopEq]
+                            SimpleExpr1(
+                              Term1(
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                          ) [CondFact1]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionH1]
+                    MatchedStmt(
+                      Assignment(
+                        DesignatorStatementExpr(
+                          DesignatorIdent(
+                           pom
+                          ) [DesignatorIdent]
+                          Assignop(
+                          ) [Assignop]
+                          Expr(
+                            ConditionalExpr1(
+                              Empty(
+                              ) [Empty]
+                              ConditionStart(
+                                CondTermStart(
+                                  CondFact2(
+                                    SimpleExpr1(
+                                      Term1(
+                                        Var(
+                                          DesignatorIdent(
+                                           a
+                                          ) [DesignatorIdent]
+                                        ) [Var]
+                                      ) [Term1]
+                                    ) [SimpleExpr1]
+                                  ) [CondFact2]
+                                ) [CondTermStart]
+                              ) [ConditionStart]
+                            ) [ConditionalExpr1]
+                          ) [Expr]
+                        ) [DesignatorStatementExpr]
+                      ) [Assignment]
+                    ) [MatchedStmt]
+                  ) [UnmatchedIf]
+                ) [UnmatchedIfElse]
+              ) [UnmatchedStmt]
+            ) [Statements]
+            MatchedStmt(
+              ReturnExpr(
+                Expr(
+                  ConditionalExpr1(
+                    Empty(
+                    ) [Empty]
+                    ConditionStart(
+                      CondTermStart(
+                        CondFact2(
+                          SimpleExpr1(
+                            Term1(
+                              FuncCall(
+                                DesignatorIdent(
+                                 sum
+                                ) [DesignatorIdent]
+                                ActParsList1(
+                                  ActParsAdd(
+                                    ActParsStart(
+                                      Expr(
+                                        ConditionalExpr1(
+                                          Empty(
+                                          ) [Empty]
+                                          ConditionStart(
+                                            CondTermStart(
+                                              CondFact2(
+                                                SimpleExpr1(
+                                                  Term1(
+                                                    Var(
+                                                      DesignatorIdent(
+                                                       a
+                                                      ) [DesignatorIdent]
+                                                    ) [Var]
+                                                  ) [Term1]
+                                                ) [SimpleExpr1]
+                                              ) [CondFact2]
+                                            ) [CondTermStart]
+                                          ) [ConditionStart]
+                                        ) [ConditionalExpr1]
+                                      ) [Expr]
+                                    ) [ActParsStart]
+                                    Expr(
+                                      ConditionalExpr1(
+                                        Empty(
+                                        ) [Empty]
+                                        ConditionStart(
+                                          CondTermStart(
+                                            CondFact2(
+                                              SimpleExpr1(
+                                                Term1(
+                                                  Var(
+                                                    DesignatorIdent(
+                                                     pom
+                                                    ) [DesignatorIdent]
+                                                  ) [Var]
+                                                ) [Term1]
+                                              ) [SimpleExpr1]
+                                            ) [CondFact2]
+                                          ) [CondTermStart]
+                                        ) [ConditionStart]
+                                      ) [ConditionalExpr1]
+                                    ) [Expr]
+                                  ) [ActParsAdd]
+                                ) [ActParsList1]
+                              ) [FuncCall]
+                            ) [Term1]
+                          ) [SimpleExpr1]
+                        ) [CondFact2]
+                      ) [CondTermStart]
+                    ) [ConditionStart]
+                  ) [ConditionalExpr1]
+                ) [Expr]
+              ) [ReturnExpr]
+            ) [MatchedStmt]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+      MethodDecl(
+        MethodRetAndNameType(
+          Type(
+           bool
+          ) [Type]
+         verify
+        ) [MethodRetAndNameType]
+        NoFormParam(
+        ) [NoFormParam]
+        NoVarDecl(
+        ) [NoVarDecl]
+        MethHelp(
+        ) [MethHelp]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            MatchedStmt(
+              PrintStmt(
+                Printer(
+                  Expr(
+                    ConditionalExpr1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact2(
+                            SimpleExpr1(
+                              Term1(
+                                CharConst(
+                                 v
+                                ) [CharConst]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                          ) [CondFact2]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionalExpr1]
+                  ) [Expr]
+                  NoCN(
+                  ) [NoCN]
+                ) [Printer]
+              ) [PrintStmt]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            ReturnExpr(
+              Expr(
+                ConditionalExpr1(
+                  Empty(
+                  ) [Empty]
+                  ConditionStart(
+                    CondTermStart(
+                      CondFact2(
+                        SimpleExpr1(
+                          Term1(
+                            BoolConst(
+                             0
+                            ) [BoolConst]
+                          ) [Term1]
+                        ) [SimpleExpr1]
+                      ) [CondFact2]
+                    ) [CondTermStart]
+                  ) [ConditionStart]
+                ) [ConditionalExpr1]
+              ) [Expr]
+            ) [ReturnExpr]
+          ) [MatchedStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodRetAndNameVoid(
+       main
+      ) [MethodRetAndNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      MethHelp(
+      ) [MethHelp]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    Statements(
+                                                      NoStmt(
+                                                      ) [NoStmt]
+                                                      MatchedStmt(
+                                                        MatchedStatement(
+                                                          ConditionH1(
+                                                            Empty(
+                                                            ) [Empty]
+                                                            ConditionStart(
+                                                              CondTermStart(
+                                                                CondFact1(
+                                                                  SimpleExpr1(
+                                                                    Term1(
+                                                                      NumConst(
+                                                                       1
+                                                                      ) [NumConst]
+                                                                    ) [Term1]
+                                                                  ) [SimpleExpr1]
+                                                                  RelopNeq(
+                                                                  ) [RelopNeq]
+                                                                  SimpleExpr1(
+                                                                    Term1(
+                                                                      NumConst(
+                                                                       1
+                                                                      ) [NumConst]
+                                                                    ) [Term1]
+                                                                  ) [SimpleExpr1]
+                                                                ) [CondFact1]
+                                                              ) [CondTermStart]
+                                                            ) [ConditionStart]
+                                                          ) [ConditionH1]
+                                                          PrintStmt(
+                                                            Printer(
+                                                              Expr(
+                                                                ConditionalExpr1(
+                                                                  Empty(
+                                                                  ) [Empty]
+                                                                  ConditionStart(
+                                                                    CondTermStart(
+                                                                      CondFact2(
+                                                                        SimpleExpr1(
+                                                                          Term1(
+                                                                            NegFactor(
+                                                                              NumConst(
+                                                                               6
+                                                                              ) [NumConst]
+                                                                            ) [NegFactor]
+                                                                          ) [Term1]
+                                                                        ) [SimpleExpr1]
+                                                                      ) [CondFact2]
+                                                                    ) [CondTermStart]
+                                                                  ) [ConditionStart]
+                                                                ) [ConditionalExpr1]
+                                                              ) [Expr]
+                                                              NoCN(
+                                                              ) [NoCN]
+                                                            ) [Printer]
+                                                          ) [PrintStmt]
+                                                          Else(
+                                                          ) [Else]
+                                                          PrintStmt(
+                                                            Printer(
+                                                              Expr(
+                                                                ConditionalExpr1(
+                                                                  Empty(
+                                                                  ) [Empty]
+                                                                  ConditionStart(
+                                                                    CondTermStart(
+                                                                      CondFact2(
+                                                                        SimpleExpr1(
+                                                                          Term1(
+                                                                            NumConst(
+                                                                             0
+                                                                            ) [NumConst]
+                                                                          ) [Term1]
+                                                                        ) [SimpleExpr1]
+                                                                      ) [CondFact2]
+                                                                    ) [CondTermStart]
+                                                                  ) [ConditionStart]
+                                                                ) [ConditionalExpr1]
+                                                              ) [Expr]
+                                                              NoCN(
+                                                              ) [NoCN]
+                                                            ) [Printer]
+                                                          ) [PrintStmt]
+                                                        ) [MatchedStatement]
+                                                      ) [MatchedStmt]
+                                                    ) [Statements]
+                                                    MatchedStmt(
+                                                      Assignment(
+                                                        DesignatorStatementExpr(
+                                                          DesignatorIdent(
+                                                           ibool
+                                                          ) [DesignatorIdent]
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          Expr(
+                                                            ConditionalExpr1(
+                                                              Empty(
+                                                              ) [Empty]
+                                                              ConditionStart(
+                                                                CondTermStart(
+                                                                  CondFact2(
+                                                                    SimpleExpr1(
+                                                                      Term1(
+                                                                        BoolConst(
+                                                                         0
+                                                                        ) [BoolConst]
+                                                                      ) [Term1]
+                                                                    ) [SimpleExpr1]
+                                                                  ) [CondFact2]
+                                                                ) [CondTermStart]
+                                                              ) [ConditionStart]
+                                                            ) [ConditionalExpr1]
+                                                          ) [Expr]
+                                                        ) [DesignatorStatementExpr]
+                                                      ) [Assignment]
+                                                    ) [MatchedStmt]
+                                                  ) [Statements]
+                                                  MatchedStmt(
+                                                    Assignment(
+                                                      DesignatorStatementExpr(
+                                                        DesignatorIdent(
+                                                         i
+                                                        ) [DesignatorIdent]
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        Expr(
+                                                          ConditionalExpr1(
+                                                            Empty(
+                                                            ) [Empty]
+                                                            ConditionStart(
+                                                              CondTermStart(
+                                                                CondFact2(
+                                                                  SimpleExpr1(
+                                                                    Term1(
+                                                                      NumConst(
+                                                                       0
+                                                                      ) [NumConst]
+                                                                    ) [Term1]
+                                                                  ) [SimpleExpr1]
+                                                                ) [CondFact2]
+                                                              ) [CondTermStart]
+                                                            ) [ConditionStart]
+                                                          ) [ConditionalExpr1]
+                                                        ) [Expr]
+                                                      ) [DesignatorStatementExpr]
+                                                    ) [Assignment]
+                                                  ) [MatchedStmt]
+                                                ) [Statements]
+                                                MatchedStmt(
+                                                  ForStmt(
+                                                    ForHelp(
+                                                    ) [ForHelp]
+                                                    DesignatorStmt1(
+                                                      DesignatorStatementExpr(
+                                                        DesignatorIdent(
+                                                         i
+                                                        ) [DesignatorIdent]
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        Expr(
+                                                          ConditionalExpr1(
+                                                            Empty(
+                                                            ) [Empty]
+                                                            ConditionStart(
+                                                              CondTermStart(
+                                                                CondFact2(
+                                                                  SimpleExpr1(
+                                                                    Term1(
+                                                                      NumConst(
+                                                                       0
+                                                                      ) [NumConst]
+                                                                    ) [Term1]
+                                                                  ) [SimpleExpr1]
+                                                                ) [CondFact2]
+                                                              ) [CondTermStart]
+                                                            ) [ConditionStart]
+                                                          ) [ConditionalExpr1]
+                                                        ) [Expr]
+                                                      ) [DesignatorStatementExpr]
+                                                    ) [DesignatorStmt1]
+                                                    Semi0(
+                                                    ) [Semi0]
+                                                    ConditionH1(
+                                                      Empty(
+                                                      ) [Empty]
+                                                      ConditionStart(
+                                                        CondTermStart(
+                                                          CondFact1(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                Var(
+                                                                  DesignatorIdent(
+                                                                   i
+                                                                  ) [DesignatorIdent]
+                                                                ) [Var]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                            RelopLess(
+                                                            ) [RelopLess]
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                NumConst(
+                                                                 5
+                                                                ) [NumConst]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                          ) [CondFact1]
+                                                        ) [CondTermStart]
+                                                      ) [ConditionStart]
+                                                    ) [ConditionH1]
+                                                    Semi1(
+                                                    ) [Semi1]
+                                                    SemiHelp(
+                                                    ) [SemiHelp]
+                                                    ForDesignatorStmt(
+                                                      DesignatorStmt1(
+                                                        DesignatorStatementInc(
+                                                          DesignatorIdent(
+                                                           i
+                                                          ) [DesignatorIdent]
+                                                        ) [DesignatorStatementInc]
+                                                      ) [DesignatorStmt1]
+                                                    ) [ForDesignatorStmt]
+                                                    StatementHelp(
+                                                      MatchedStmt(
+                                                        ListStmt(
+                                                          Statements(
+                                                            NoStmt(
+                                                            ) [NoStmt]
+                                                            UnmatchedStmt(
+                                                              UnmatchedIf(
+                                                                ConditionH1(
+                                                                  Empty(
+                                                                  ) [Empty]
+                                                                  ConditionStart(
+                                                                    CondTermStart(
+                                                                      CondFact1(
+                                                                        SimpleExpr1(
+                                                                          Term1(
+                                                                            Var(
+                                                                              DesignatorIdent(
+                                                                               i
+                                                                              ) [DesignatorIdent]
+                                                                            ) [Var]
+                                                                          ) [Term1]
+                                                                        ) [SimpleExpr1]
+                                                                        RelopEq(
+                                                                        ) [RelopEq]
+                                                                        SimpleExpr1(
+                                                                          Term1(
+                                                                            NumConst(
+                                                                             2
+                                                                            ) [NumConst]
+                                                                          ) [Term1]
+                                                                        ) [SimpleExpr1]
+                                                                      ) [CondFact1]
+                                                                    ) [CondTermStart]
+                                                                  ) [ConditionStart]
+                                                                ) [ConditionH1]
+                                                                MatchedStmt(
+                                                                  Assignment(
+                                                                    DesignatorStatementExpr(
+                                                                      DesignatorIdent(
+                                                                       ibool
+                                                                      ) [DesignatorIdent]
+                                                                      Assignop(
+                                                                      ) [Assignop]
+                                                                      Expr(
+                                                                        ConditionalExpr1(
+                                                                          Empty(
+                                                                          ) [Empty]
+                                                                          ConditionStart(
+                                                                            CondTermStart(
+                                                                              CondFact2(
+                                                                                SimpleExpr1(
+                                                                                  Term1(
+                                                                                    BoolConst(
+                                                                                     1
+                                                                                    ) [BoolConst]
+                                                                                  ) [Term1]
+                                                                                ) [SimpleExpr1]
+                                                                              ) [CondFact2]
+                                                                            ) [CondTermStart]
+                                                                          ) [ConditionStart]
+                                                                        ) [ConditionalExpr1]
+                                                                      ) [Expr]
+                                                                    ) [DesignatorStatementExpr]
+                                                                  ) [Assignment]
+                                                                ) [MatchedStmt]
+                                                              ) [UnmatchedIf]
+                                                            ) [UnmatchedStmt]
+                                                          ) [Statements]
+                                                        ) [ListStmt]
+                                                      ) [MatchedStmt]
+                                                    ) [StatementHelp]
+                                                  ) [ForStmt]
+                                                ) [MatchedStmt]
+                                              ) [Statements]
+                                              UnmatchedStmt(
+                                                UnmatchedIf(
+                                                  ConditionH1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              Var(
+                                                                DesignatorIdent(
+                                                                 ibool
+                                                                ) [DesignatorIdent]
+                                                              ) [Var]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionH1]
+                                                  MatchedStmt(
+                                                    MatchedStatement(
+                                                      ConditionH1(
+                                                        Empty(
+                                                        ) [Empty]
+                                                        ConditionStart(
+                                                          CondTermStart(
+                                                            CondFact1(
+                                                              SimpleExpr1(
+                                                                Term1(
+                                                                  Var(
+                                                                    DesignatorIdent(
+                                                                     i
+                                                                    ) [DesignatorIdent]
+                                                                  ) [Var]
+                                                                ) [Term1]
+                                                              ) [SimpleExpr1]
+                                                              RelopEq(
+                                                              ) [RelopEq]
+                                                              SimpleExpr1(
+                                                                Term1(
+                                                                  NumConst(
+                                                                   5
+                                                                  ) [NumConst]
+                                                                ) [Term1]
+                                                              ) [SimpleExpr1]
+                                                            ) [CondFact1]
+                                                          ) [CondTermStart]
+                                                        ) [ConditionStart]
+                                                      ) [ConditionH1]
+                                                      PrintStmt(
+                                                        Printer(
+                                                          Expr(
+                                                            ConditionalExpr1(
+                                                              Empty(
+                                                              ) [Empty]
+                                                              ConditionStart(
+                                                                CondTermStart(
+                                                                  CondFact2(
+                                                                    SimpleExpr1(
+                                                                      Term1(
+                                                                        NumConst(
+                                                                         1
+                                                                        ) [NumConst]
+                                                                      ) [Term1]
+                                                                    ) [SimpleExpr1]
+                                                                  ) [CondFact2]
+                                                                ) [CondTermStart]
+                                                              ) [ConditionStart]
+                                                            ) [ConditionalExpr1]
+                                                          ) [Expr]
+                                                          NoCN(
+                                                          ) [NoCN]
+                                                        ) [Printer]
+                                                      ) [PrintStmt]
+                                                      Else(
+                                                      ) [Else]
+                                                      PrintStmt(
+                                                        Printer(
+                                                          Expr(
+                                                            ConditionalExpr1(
+                                                              Empty(
+                                                              ) [Empty]
+                                                              ConditionStart(
+                                                                CondTermStart(
+                                                                  CondFact2(
+                                                                    SimpleExpr1(
+                                                                      Term1(
+                                                                        NegFactor(
+                                                                          NumConst(
+                                                                           1
+                                                                          ) [NumConst]
+                                                                        ) [NegFactor]
+                                                                      ) [Term1]
+                                                                    ) [SimpleExpr1]
+                                                                  ) [CondFact2]
+                                                                ) [CondTermStart]
+                                                              ) [ConditionStart]
+                                                            ) [ConditionalExpr1]
+                                                          ) [Expr]
+                                                          NoCN(
+                                                          ) [NoCN]
+                                                        ) [Printer]
+                                                      ) [PrintStmt]
+                                                    ) [MatchedStatement]
+                                                  ) [MatchedStmt]
+                                                ) [UnmatchedIf]
+                                              ) [UnmatchedStmt]
+                                            ) [Statements]
+                                            MatchedStmt(
+                                              Assignment(
+                                                DesignatorStatementExpr(
+                                                  DesignatorIdent(
+                                                   niz
+                                                  ) [DesignatorIdent]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  Expr(
+                                                    ConditionalExpr1(
+                                                      Empty(
+                                                      ) [Empty]
+                                                      ConditionStart(
+                                                        CondTermStart(
+                                                          CondFact2(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                NewFacotr(
+                                                                  Type(
+                                                                   int
+                                                                  ) [Type]
+                                                                  Expr(
+                                                                    ConditionalExpr1(
+                                                                      Empty(
+                                                                      ) [Empty]
+                                                                      ConditionStart(
+                                                                        CondTermStart(
+                                                                          CondFact2(
+                                                                            SimpleExpr1(
+                                                                              Term1(
+                                                                                NumConst(
+                                                                                 3
+                                                                                ) [NumConst]
+                                                                              ) [Term1]
+                                                                            ) [SimpleExpr1]
+                                                                          ) [CondFact2]
+                                                                        ) [CondTermStart]
+                                                                      ) [ConditionStart]
+                                                                    ) [ConditionalExpr1]
+                                                                  ) [Expr]
+                                                                ) [NewFacotr]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                          ) [CondFact2]
+                                                        ) [CondTermStart]
+                                                      ) [ConditionStart]
+                                                    ) [ConditionalExpr1]
+                                                  ) [Expr]
+                                                ) [DesignatorStatementExpr]
+                                              ) [Assignment]
+                                            ) [MatchedStmt]
+                                          ) [Statements]
+                                          MatchedStmt(
+                                            Assignment(
+                                              DesignatorStatementExpr(
+                                                DesignatorExpr(
+                                                  DesignatorName(
+                                                   niz
+                                                  ) [DesignatorName]
+                                                  Expr(
+                                                    ConditionalExpr1(
+                                                      Empty(
+                                                      ) [Empty]
+                                                      ConditionStart(
+                                                        CondTermStart(
+                                                          CondFact2(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                NumConst(
+                                                                 0
+                                                                ) [NumConst]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                          ) [CondFact2]
+                                                        ) [CondTermStart]
+                                                      ) [ConditionStart]
+                                                    ) [ConditionalExpr1]
+                                                  ) [Expr]
+                                                ) [DesignatorExpr]
+                                                Assignop(
+                                                ) [Assignop]
+                                                Expr(
+                                                  ConditionalExpr1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              NumConst(
+                                                               1
+                                                              ) [NumConst]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionalExpr1]
+                                                ) [Expr]
+                                              ) [DesignatorStatementExpr]
+                                            ) [Assignment]
+                                          ) [MatchedStmt]
+                                        ) [Statements]
+                                        MatchedStmt(
+                                          Assignment(
+                                            DesignatorStatementExpr(
+                                              DesignatorExpr(
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                Expr(
+                                                  ConditionalExpr1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              NumConst(
+                                                               1
+                                                              ) [NumConst]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionalExpr1]
+                                                ) [Expr]
+                                              ) [DesignatorExpr]
+                                              Assignop(
+                                              ) [Assignop]
+                                              Expr(
+                                                ConditionalExpr1(
+                                                  Empty(
+                                                  ) [Empty]
+                                                  ConditionStart(
+                                                    CondTermStart(
+                                                      CondFact2(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            NumConst(
+                                                             2
+                                                            ) [NumConst]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                      ) [CondFact2]
+                                                    ) [CondTermStart]
+                                                  ) [ConditionStart]
+                                                ) [ConditionalExpr1]
+                                              ) [Expr]
+                                            ) [DesignatorStatementExpr]
+                                          ) [Assignment]
+                                        ) [MatchedStmt]
+                                      ) [Statements]
+                                      MatchedStmt(
+                                        Assignment(
+                                          DesignatorStatementExpr(
+                                            DesignatorExpr(
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              Expr(
+                                                ConditionalExpr1(
+                                                  Empty(
+                                                  ) [Empty]
+                                                  ConditionStart(
+                                                    CondTermStart(
+                                                      CondFact2(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            NumConst(
+                                                             2
+                                                            ) [NumConst]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                      ) [CondFact2]
+                                                    ) [CondTermStart]
+                                                  ) [ConditionStart]
+                                                ) [ConditionalExpr1]
+                                              ) [Expr]
+                                            ) [DesignatorExpr]
+                                            Assignop(
+                                            ) [Assignop]
+                                            Expr(
+                                              ConditionalExpr1(
+                                                Empty(
+                                                ) [Empty]
+                                                ConditionStart(
+                                                  CondTermStart(
+                                                    CondFact2(
+                                                      SimpleExpr2(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            FuncCall(
+                                                              DesignatorIdent(
+                                                               sum
+                                                              ) [DesignatorIdent]
+                                                              ActParsList1(
+                                                                ActParsAdd(
+                                                                  ActParsStart(
+                                                                    Expr(
+                                                                      ConditionalExpr1(
+                                                                        Empty(
+                                                                        ) [Empty]
+                                                                        ConditionStart(
+                                                                          CondTermStart(
+                                                                            CondFact2(
+                                                                              SimpleExpr1(
+                                                                                Term1(
+                                                                                  Var(
+                                                                                    DesignatorExpr(
+                                                                                      DesignatorName(
+                                                                                       niz
+                                                                                      ) [DesignatorName]
+                                                                                      Expr(
+                                                                                        ConditionalExpr1(
+                                                                                          Empty(
+                                                                                          ) [Empty]
+                                                                                          ConditionStart(
+                                                                                            CondTermStart(
+                                                                                              CondFact2(
+                                                                                                SimpleExpr1(
+                                                                                                  Term1(
+                                                                                                    NumConst(
+                                                                                                     1
+                                                                                                    ) [NumConst]
+                                                                                                  ) [Term1]
+                                                                                                ) [SimpleExpr1]
+                                                                                              ) [CondFact2]
+                                                                                            ) [CondTermStart]
+                                                                                          ) [ConditionStart]
+                                                                                        ) [ConditionalExpr1]
+                                                                                      ) [Expr]
+                                                                                    ) [DesignatorExpr]
+                                                                                  ) [Var]
+                                                                                ) [Term1]
+                                                                              ) [SimpleExpr1]
+                                                                            ) [CondFact2]
+                                                                          ) [CondTermStart]
+                                                                        ) [ConditionStart]
+                                                                      ) [ConditionalExpr1]
+                                                                    ) [Expr]
+                                                                  ) [ActParsStart]
+                                                                  Expr(
+                                                                    ConditionalExpr1(
+                                                                      Empty(
+                                                                      ) [Empty]
+                                                                      ConditionStart(
+                                                                        CondTermStart(
+                                                                          CondFact2(
+                                                                            SimpleExpr1(
+                                                                              Term1(
+                                                                                Var(
+                                                                                  DesignatorExpr(
+                                                                                    DesignatorName(
+                                                                                     niz
+                                                                                    ) [DesignatorName]
+                                                                                    Expr(
+                                                                                      ConditionalExpr1(
+                                                                                        Empty(
+                                                                                        ) [Empty]
+                                                                                        ConditionStart(
+                                                                                          CondTermStart(
+                                                                                            CondFact2(
+                                                                                              SimpleExpr1(
+                                                                                                Term1(
+                                                                                                  NumConst(
+                                                                                                   0
+                                                                                                  ) [NumConst]
+                                                                                                ) [Term1]
+                                                                                              ) [SimpleExpr1]
+                                                                                            ) [CondFact2]
+                                                                                          ) [CondTermStart]
+                                                                                        ) [ConditionStart]
+                                                                                      ) [ConditionalExpr1]
+                                                                                    ) [Expr]
+                                                                                  ) [DesignatorExpr]
+                                                                                ) [Var]
+                                                                              ) [Term1]
+                                                                            ) [SimpleExpr1]
+                                                                          ) [CondFact2]
+                                                                        ) [CondTermStart]
+                                                                      ) [ConditionStart]
+                                                                    ) [ConditionalExpr1]
+                                                                  ) [Expr]
+                                                                ) [ActParsAdd]
+                                                              ) [ActParsList1]
+                                                            ) [FuncCall]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                        Addop1(
+                                                        ) [Addop1]
+                                                        Term1(
+                                                          NumConst(
+                                                           1
+                                                          ) [NumConst]
+                                                        ) [Term1]
+                                                      ) [SimpleExpr2]
+                                                    ) [CondFact2]
+                                                  ) [CondTermStart]
+                                                ) [ConditionStart]
+                                              ) [ConditionalExpr1]
+                                            ) [Expr]
+                                          ) [DesignatorStatementExpr]
+                                        ) [Assignment]
+                                      ) [MatchedStmt]
+                                    ) [Statements]
+                                    MatchedStmt(
+                                      MatchedStatement(
+                                        ConditionH1(
+                                          Empty(
+                                          ) [Empty]
+                                          ConditionAdd(
+                                            ConditionStart(
+                                              CondTermStart(
+                                                CondFact1(
+                                                  SimpleExpr1(
+                                                    Term1(
+                                                      Var(
+                                                        DesignatorExpr(
+                                                          DesignatorName(
+                                                           niz
+                                                          ) [DesignatorName]
+                                                          Expr(
+                                                            ConditionalExpr1(
+                                                              Empty(
+                                                              ) [Empty]
+                                                              ConditionStart(
+                                                                CondTermStart(
+                                                                  CondFact2(
+                                                                    SimpleExpr1(
+                                                                      Term1(
+                                                                        NumConst(
+                                                                         2
+                                                                        ) [NumConst]
+                                                                      ) [Term1]
+                                                                    ) [SimpleExpr1]
+                                                                  ) [CondFact2]
+                                                                ) [CondTermStart]
+                                                              ) [ConditionStart]
+                                                            ) [ConditionalExpr1]
+                                                          ) [Expr]
+                                                        ) [DesignatorExpr]
+                                                      ) [Var]
+                                                    ) [Term1]
+                                                  ) [SimpleExpr1]
+                                                  RelopEq(
+                                                  ) [RelopEq]
+                                                  SimpleExpr1(
+                                                    Term1(
+                                                      NumConst(
+                                                       4
+                                                      ) [NumConst]
+                                                    ) [Term1]
+                                                  ) [SimpleExpr1]
+                                                ) [CondFact1]
+                                              ) [CondTermStart]
+                                            ) [ConditionStart]
+                                            CondTermStart(
+                                              CondFact2(
+                                                SimpleExpr1(
+                                                  Term1(
+                                                    FuncCall(
+                                                      DesignatorIdent(
+                                                       verify
+                                                      ) [DesignatorIdent]
+                                                      ActParsListE(
+                                                      ) [ActParsListE]
+                                                    ) [FuncCall]
+                                                  ) [Term1]
+                                                ) [SimpleExpr1]
+                                              ) [CondFact2]
+                                            ) [CondTermStart]
+                                          ) [ConditionAdd]
+                                        ) [ConditionH1]
+                                        PrintStmt(
+                                          Printer(
+                                            Expr(
+                                              ConditionalExpr1(
+                                                Empty(
+                                                ) [Empty]
+                                                ConditionStart(
+                                                  CondTermStart(
+                                                    CondFact2(
+                                                      SimpleExpr1(
+                                                        Term1(
+                                                          FuncCall(
+                                                            DesignatorIdent(
+                                                             ord
+                                                            ) [DesignatorIdent]
+                                                            ActParsList1(
+                                                              ActParsStart(
+                                                                Expr(
+                                                                  ConditionalExpr1(
+                                                                    Empty(
+                                                                    ) [Empty]
+                                                                    ConditionStart(
+                                                                      CondTermStart(
+                                                                        CondFact2(
+                                                                          SimpleExpr1(
+                                                                            Term1(
+                                                                              CharConst(
+                                                                               A
+                                                                              ) [CharConst]
+                                                                            ) [Term1]
+                                                                          ) [SimpleExpr1]
+                                                                        ) [CondFact2]
+                                                                      ) [CondTermStart]
+                                                                    ) [ConditionStart]
+                                                                  ) [ConditionalExpr1]
+                                                                ) [Expr]
+                                                              ) [ActParsStart]
+                                                            ) [ActParsList1]
+                                                          ) [FuncCall]
+                                                        ) [Term1]
+                                                      ) [SimpleExpr1]
+                                                    ) [CondFact2]
+                                                  ) [CondTermStart]
+                                                ) [ConditionStart]
+                                              ) [ConditionalExpr1]
+                                            ) [Expr]
+                                            NoCN(
+                                            ) [NoCN]
+                                          ) [Printer]
+                                        ) [PrintStmt]
+                                        Else(
+                                        ) [Else]
+                                        PrintStmt(
+                                          Printer(
+                                            Expr(
+                                              ConditionalExpr1(
+                                                Empty(
+                                                ) [Empty]
+                                                ConditionStart(
+                                                  CondTermStart(
+                                                    CondFact2(
+                                                      SimpleExpr1(
+                                                        Term1(
+                                                          FuncCall(
+                                                            DesignatorIdent(
+                                                             ord
+                                                            ) [DesignatorIdent]
+                                                            ActParsList1(
+                                                              ActParsStart(
+                                                                Expr(
+                                                                  ConditionalExpr1(
+                                                                    Empty(
+                                                                    ) [Empty]
+                                                                    ConditionStart(
+                                                                      CondTermStart(
+                                                                        CondFact2(
+                                                                          SimpleExpr1(
+                                                                            Term1(
+                                                                              CharConst(
+                                                                               a
+                                                                              ) [CharConst]
+                                                                            ) [Term1]
+                                                                          ) [SimpleExpr1]
+                                                                        ) [CondFact2]
+                                                                      ) [CondTermStart]
+                                                                    ) [ConditionStart]
+                                                                  ) [ConditionalExpr1]
+                                                                ) [Expr]
+                                                              ) [ActParsStart]
+                                                            ) [ActParsList1]
+                                                          ) [FuncCall]
+                                                        ) [Term1]
+                                                      ) [SimpleExpr1]
+                                                    ) [CondFact2]
+                                                  ) [CondTermStart]
+                                                ) [ConditionStart]
+                                              ) [ConditionalExpr1]
+                                            ) [Expr]
+                                            NoCN(
+                                            ) [NoCN]
+                                          ) [Printer]
+                                        ) [PrintStmt]
+                                      ) [MatchedStatement]
+                                    ) [MatchedStmt]
+                                  ) [Statements]
+                                  MatchedStmt(
+                                    PrintStmt(
+                                      Printer(
+                                        Expr(
+                                          ConditionalExpr1(
+                                            Empty(
+                                            ) [Empty]
+                                            ConditionStart(
+                                              CondTermStart(
+                                                CondFact2(
+                                                  SimpleExpr1(
+                                                    Term1(
+                                                      Var(
+                                                        DesignatorIdent(
+                                                         eol
+                                                        ) [DesignatorIdent]
+                                                      ) [Var]
+                                                    ) [Term1]
+                                                  ) [SimpleExpr1]
+                                                ) [CondFact2]
+                                              ) [CondTermStart]
+                                            ) [ConditionStart]
+                                          ) [ConditionalExpr1]
+                                        ) [Expr]
+                                        NoCN(
+                                        ) [NoCN]
+                                      ) [Printer]
+                                    ) [PrintStmt]
+                                  ) [MatchedStmt]
+                                ) [Statements]
+                                MatchedStmt(
+                                  Assignment(
+                                    DesignatorStatementExpr(
+                                      DesignatorIdent(
+                                       i
+                                      ) [DesignatorIdent]
+                                      Assignop(
+                                      ) [Assignop]
+                                      Expr(
+                                        ConditionalExpr1(
+                                          Empty(
+                                          ) [Empty]
+                                          ConditionStart(
+                                            CondTermStart(
+                                              CondFact2(
+                                                SimpleExpr1(
+                                                  Term1(
+                                                    NumConst(
+                                                     0
+                                                    ) [NumConst]
+                                                  ) [Term1]
+                                                ) [SimpleExpr1]
+                                              ) [CondFact2]
+                                            ) [CondTermStart]
+                                          ) [ConditionStart]
+                                        ) [ConditionalExpr1]
+                                      ) [Expr]
+                                    ) [DesignatorStatementExpr]
+                                  ) [Assignment]
+                                ) [MatchedStmt]
+                              ) [Statements]
+                              MatchedStmt(
+                                ForStmt(
+                                  ForHelp(
+                                  ) [ForHelp]
+                                  NoDesignatorStmt(
+                                  ) [NoDesignatorStmt]
+                                  Semi0(
+                                  ) [Semi0]
+                                  ConditionH1(
+                                    Empty(
+                                    ) [Empty]
+                                    ConditionStart(
+                                      CondTermStart(
+                                        CondFact1(
+                                          SimpleExpr1(
+                                            Term1(
+                                              Var(
+                                                DesignatorIdent(
+                                                 i
+                                                ) [DesignatorIdent]
+                                              ) [Var]
+                                            ) [Term1]
+                                          ) [SimpleExpr1]
+                                          RelopLess(
+                                          ) [RelopLess]
+                                          SimpleExpr1(
+                                            Term1(
+                                              NumConst(
+                                               10
+                                              ) [NumConst]
+                                            ) [Term1]
+                                          ) [SimpleExpr1]
+                                        ) [CondFact1]
+                                      ) [CondTermStart]
+                                    ) [ConditionStart]
+                                  ) [ConditionH1]
+                                  Semi1(
+                                  ) [Semi1]
+                                  SemiHelp(
+                                  ) [SemiHelp]
+                                  ForDesignatorStmt(
+                                    NoDesignatorStmt(
+                                    ) [NoDesignatorStmt]
+                                  ) [ForDesignatorStmt]
+                                  StatementHelp(
+                                    MatchedStmt(
+                                      ListStmt(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              NoStmt(
+                                              ) [NoStmt]
+                                              UnmatchedStmt(
+                                                UnmatchedIf(
+                                                  ConditionH1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact1(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              Var(
+                                                                DesignatorIdent(
+                                                                 i
+                                                                ) [DesignatorIdent]
+                                                              ) [Var]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                          RelopEq(
+                                                          ) [RelopEq]
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              NumConst(
+                                                               3
+                                                              ) [NumConst]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact1]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionH1]
+                                                  MatchedStmt(
+                                                    ListStmt(
+                                                      Statements(
+                                                        Statements(
+                                                          NoStmt(
+                                                          ) [NoStmt]
+                                                          MatchedStmt(
+                                                            Assignment(
+                                                              DesignatorStatementInc(
+                                                                DesignatorIdent(
+                                                                 i
+                                                                ) [DesignatorIdent]
+                                                              ) [DesignatorStatementInc]
+                                                            ) [Assignment]
+                                                          ) [MatchedStmt]
+                                                        ) [Statements]
+                                                        MatchedStmt(
+                                                          ContinueStmt(
+                                                          ) [ContinueStmt]
+                                                        ) [MatchedStmt]
+                                                      ) [Statements]
+                                                    ) [ListStmt]
+                                                  ) [MatchedStmt]
+                                                ) [UnmatchedIf]
+                                              ) [UnmatchedStmt]
+                                            ) [Statements]
+                                            UnmatchedStmt(
+                                              UnmatchedIf(
+                                                ConditionH1(
+                                                  Empty(
+                                                  ) [Empty]
+                                                  ConditionStart(
+                                                    CondTermStart(
+                                                      CondFact1(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            Var(
+                                                              DesignatorIdent(
+                                                               i
+                                                              ) [DesignatorIdent]
+                                                            ) [Var]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                        RelopEq(
+                                                        ) [RelopEq]
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            NumConst(
+                                                             4
+                                                            ) [NumConst]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                      ) [CondFact1]
+                                                    ) [CondTermStart]
+                                                  ) [ConditionStart]
+                                                ) [ConditionH1]
+                                                MatchedStmt(
+                                                  BreakStmt(
+                                                  ) [BreakStmt]
+                                                ) [MatchedStmt]
+                                              ) [UnmatchedIf]
+                                            ) [UnmatchedStmt]
+                                          ) [Statements]
+                                          MatchedStmt(
+                                            Assignment(
+                                              DesignatorStatementExpr(
+                                                DesignatorIdent(
+                                                 i
+                                                ) [DesignatorIdent]
+                                                Assignop(
+                                                ) [Assignop]
+                                                Expr(
+                                                  ConditionalExpr1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              FuncCall(
+                                                                DesignatorIdent(
+                                                                 inkrement
+                                                                ) [DesignatorIdent]
+                                                                ActParsList1(
+                                                                  ActParsAdd(
+                                                                    ActParsStart(
+                                                                      Expr(
+                                                                        ConditionalExpr1(
+                                                                          Empty(
+                                                                          ) [Empty]
+                                                                          ConditionStart(
+                                                                            CondTermStart(
+                                                                              CondFact2(
+                                                                                SimpleExpr1(
+                                                                                  Term1(
+                                                                                    Var(
+                                                                                      DesignatorIdent(
+                                                                                       i
+                                                                                      ) [DesignatorIdent]
+                                                                                    ) [Var]
+                                                                                  ) [Term1]
+                                                                                ) [SimpleExpr1]
+                                                                              ) [CondFact2]
+                                                                            ) [CondTermStart]
+                                                                          ) [ConditionStart]
+                                                                        ) [ConditionalExpr1]
+                                                                      ) [Expr]
+                                                                    ) [ActParsStart]
+                                                                    Expr(
+                                                                      ConditionalExpr1(
+                                                                        Empty(
+                                                                        ) [Empty]
+                                                                        ConditionStart(
+                                                                          CondTermStart(
+                                                                            CondFact2(
+                                                                              SimpleExpr1(
+                                                                                Term1(
+                                                                                  NumConst(
+                                                                                   1
+                                                                                  ) [NumConst]
+                                                                                ) [Term1]
+                                                                              ) [SimpleExpr1]
+                                                                            ) [CondFact2]
+                                                                          ) [CondTermStart]
+                                                                        ) [ConditionStart]
+                                                                      ) [ConditionalExpr1]
+                                                                    ) [Expr]
+                                                                  ) [ActParsAdd]
+                                                                ) [ActParsList1]
+                                                              ) [FuncCall]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionalExpr1]
+                                                ) [Expr]
+                                              ) [DesignatorStatementExpr]
+                                            ) [Assignment]
+                                          ) [MatchedStmt]
+                                        ) [Statements]
+                                      ) [ListStmt]
+                                    ) [MatchedStmt]
+                                  ) [StatementHelp]
+                                ) [ForStmt]
+                              ) [MatchedStmt]
+                            ) [Statements]
+                            MatchedStmt(
+                              MatchedStatement(
+                                ConditionH1(
+                                  Empty(
+                                  ) [Empty]
+                                  ConditionStart(
+                                    CondTermAdd(
+                                      CondTermStart(
+                                        CondFact1(
+                                          SimpleExpr1(
+                                            Term1(
+                                              Var(
+                                                DesignatorIdent(
+                                                 i
+                                                ) [DesignatorIdent]
+                                              ) [Var]
+                                            ) [Term1]
+                                          ) [SimpleExpr1]
+                                          RelopEq(
+                                          ) [RelopEq]
+                                          SimpleExpr1(
+                                            Term1(
+                                              NumConst(
+                                               3
+                                              ) [NumConst]
+                                            ) [Term1]
+                                          ) [SimpleExpr1]
+                                        ) [CondFact1]
+                                      ) [CondTermStart]
+                                      CondFact2(
+                                        SimpleExpr1(
+                                          Term1(
+                                            FuncCall(
+                                              DesignatorIdent(
+                                               verify
+                                              ) [DesignatorIdent]
+                                              ActParsListE(
+                                              ) [ActParsListE]
+                                            ) [FuncCall]
+                                          ) [Term1]
+                                        ) [SimpleExpr1]
+                                      ) [CondFact2]
+                                    ) [CondTermAdd]
+                                  ) [ConditionStart]
+                                ) [ConditionH1]
+                                PrintStmt(
+                                  Printer(
+                                    Expr(
+                                      ConditionalExpr1(
+                                        Empty(
+                                        ) [Empty]
+                                        ConditionStart(
+                                          CondTermStart(
+                                            CondFact2(
+                                              SimpleExpr1(
+                                                Term1(
+                                                  NumConst(
+                                                   4
+                                                  ) [NumConst]
+                                                ) [Term1]
+                                              ) [SimpleExpr1]
+                                            ) [CondFact2]
+                                          ) [CondTermStart]
+                                        ) [ConditionStart]
+                                      ) [ConditionalExpr1]
+                                    ) [Expr]
+                                    NoCN(
+                                    ) [NoCN]
+                                  ) [Printer]
+                                ) [PrintStmt]
+                                Else(
+                                ) [Else]
+                                PrintStmt(
+                                  Printer(
+                                    Expr(
+                                      ConditionalExpr1(
+                                        Empty(
+                                        ) [Empty]
+                                        ConditionStart(
+                                          CondTermStart(
+                                            CondFact2(
+                                              SimpleExpr1(
+                                                Term1(
+                                                  NegFactor(
+                                                    NumConst(
+                                                     4
+                                                    ) [NumConst]
+                                                  ) [NegFactor]
+                                                ) [Term1]
+                                              ) [SimpleExpr1]
+                                            ) [CondFact2]
+                                          ) [CondTermStart]
+                                        ) [ConditionStart]
+                                      ) [ConditionalExpr1]
+                                    ) [Expr]
+                                    NoCN(
+                                    ) [NoCN]
+                                  ) [Printer]
+                                ) [PrintStmt]
+                              ) [MatchedStatement]
+                            ) [MatchedStmt]
+                          ) [Statements]
+                          MatchedStmt(
+                            ReadStmt(
+                              DesignatorExpr(
+                                DesignatorName(
+                                 niz
+                                ) [DesignatorName]
+                                Expr(
+                                  ConditionalExpr1(
+                                    Empty(
+                                    ) [Empty]
+                                    ConditionStart(
+                                      CondTermStart(
+                                        CondFact2(
+                                          SimpleExpr1(
+                                            Term1(
+                                              NumConst(
+                                               0
+                                              ) [NumConst]
+                                            ) [Term1]
+                                          ) [SimpleExpr1]
+                                        ) [CondFact2]
+                                      ) [CondTermStart]
+                                    ) [ConditionStart]
+                                  ) [ConditionalExpr1]
+                                ) [Expr]
+                              ) [DesignatorExpr]
+                            ) [ReadStmt]
+                          ) [MatchedStmt]
+                        ) [Statements]
+                        MatchedStmt(
+                          ReadStmt(
+                            DesignatorExpr(
+                              DesignatorName(
+                               niz
+                              ) [DesignatorName]
+                              Expr(
+                                ConditionalExpr1(
+                                  Empty(
+                                  ) [Empty]
+                                  ConditionStart(
+                                    CondTermStart(
+                                      CondFact2(
+                                        SimpleExpr1(
+                                          Term1(
+                                            NumConst(
+                                             1
+                                            ) [NumConst]
+                                          ) [Term1]
+                                        ) [SimpleExpr1]
+                                      ) [CondFact2]
+                                    ) [CondTermStart]
+                                  ) [ConditionStart]
+                                ) [ConditionalExpr1]
+                              ) [Expr]
+                            ) [DesignatorExpr]
+                          ) [ReadStmt]
+                        ) [MatchedStmt]
+                      ) [Statements]
+                      MatchedStmt(
+                        ReadStmt(
+                          DesignatorExpr(
+                            DesignatorName(
+                             niz
+                            ) [DesignatorName]
+                            Expr(
+                              ConditionalExpr1(
+                                Empty(
+                                ) [Empty]
+                                ConditionStart(
+                                  CondTermStart(
+                                    CondFact2(
+                                      SimpleExpr1(
+                                        Term1(
+                                          NumConst(
+                                           2
+                                          ) [NumConst]
+                                        ) [Term1]
+                                      ) [SimpleExpr1]
+                                    ) [CondFact2]
+                                  ) [CondTermStart]
+                                ) [ConditionStart]
+                              ) [ConditionalExpr1]
+                            ) [Expr]
+                          ) [DesignatorExpr]
+                        ) [ReadStmt]
+                      ) [MatchedStmt]
+                    ) [Statements]
+                    MatchedStmt(
+                      PrintStmt(
+                        Printer(
+                          Expr(
+                            ConditionalExpr1(
+                              Empty(
+                              ) [Empty]
+                              ConditionStart(
+                                CondTermStart(
+                                  CondFact2(
+                                    SimpleExpr1(
+                                      Term1(
+                                        Var(
+                                          DesignatorIdent(
+                                           eol
+                                          ) [DesignatorIdent]
+                                        ) [Var]
+                                      ) [Term1]
+                                    ) [SimpleExpr1]
+                                  ) [CondFact2]
+                                ) [CondTermStart]
+                              ) [ConditionStart]
+                            ) [ConditionalExpr1]
+                          ) [Expr]
+                          NoCN(
+                          ) [NoCN]
+                        ) [Printer]
+                      ) [PrintStmt]
+                    ) [MatchedStmt]
+                  ) [Statements]
+                  MatchedStmt(
+                    PrintStmt(
+                      Printer(
+                        Expr(
+                          ConditionalExpr1(
+                            Empty(
+                            ) [Empty]
+                            ConditionStart(
+                              CondTermStart(
+                                CondFact2(
+                                  SimpleExpr1(
+                                    Term1(
+                                      FuncCall(
+                                        DesignatorIdent(
+                                         sum
+                                        ) [DesignatorIdent]
+                                        ActParsList1(
+                                          ActParsAdd(
+                                            ActParsStart(
+                                              Expr(
+                                                ConditionalExpr1(
+                                                  Empty(
+                                                  ) [Empty]
+                                                  ConditionStart(
+                                                    CondTermStart(
+                                                      CondFact2(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            FuncCall(
+                                                              DesignatorIdent(
+                                                               sum
+                                                              ) [DesignatorIdent]
+                                                              ActParsList1(
+                                                                ActParsAdd(
+                                                                  ActParsStart(
+                                                                    Expr(
+                                                                      ConditionalExpr1(
+                                                                        Empty(
+                                                                        ) [Empty]
+                                                                        ConditionStart(
+                                                                          CondTermStart(
+                                                                            CondFact2(
+                                                                              SimpleExpr1(
+                                                                                Term1(
+                                                                                  Var(
+                                                                                    DesignatorExpr(
+                                                                                      DesignatorName(
+                                                                                       niz
+                                                                                      ) [DesignatorName]
+                                                                                      Expr(
+                                                                                        ConditionalExpr1(
+                                                                                          Empty(
+                                                                                          ) [Empty]
+                                                                                          ConditionStart(
+                                                                                            CondTermStart(
+                                                                                              CondFact2(
+                                                                                                SimpleExpr1(
+                                                                                                  Term1(
+                                                                                                    NumConst(
+                                                                                                     0
+                                                                                                    ) [NumConst]
+                                                                                                  ) [Term1]
+                                                                                                ) [SimpleExpr1]
+                                                                                              ) [CondFact2]
+                                                                                            ) [CondTermStart]
+                                                                                          ) [ConditionStart]
+                                                                                        ) [ConditionalExpr1]
+                                                                                      ) [Expr]
+                                                                                    ) [DesignatorExpr]
+                                                                                  ) [Var]
+                                                                                ) [Term1]
+                                                                              ) [SimpleExpr1]
+                                                                            ) [CondFact2]
+                                                                          ) [CondTermStart]
+                                                                        ) [ConditionStart]
+                                                                      ) [ConditionalExpr1]
+                                                                    ) [Expr]
+                                                                  ) [ActParsStart]
+                                                                  Expr(
+                                                                    ConditionalExpr1(
+                                                                      Empty(
+                                                                      ) [Empty]
+                                                                      ConditionStart(
+                                                                        CondTermStart(
+                                                                          CondFact2(
+                                                                            SimpleExpr1(
+                                                                              Term1(
+                                                                                Var(
+                                                                                  DesignatorExpr(
+                                                                                    DesignatorName(
+                                                                                     niz
+                                                                                    ) [DesignatorName]
+                                                                                    Expr(
+                                                                                      ConditionalExpr1(
+                                                                                        Empty(
+                                                                                        ) [Empty]
+                                                                                        ConditionStart(
+                                                                                          CondTermStart(
+                                                                                            CondFact2(
+                                                                                              SimpleExpr1(
+                                                                                                Term1(
+                                                                                                  NumConst(
+                                                                                                   1
+                                                                                                  ) [NumConst]
+                                                                                                ) [Term1]
+                                                                                              ) [SimpleExpr1]
+                                                                                            ) [CondFact2]
+                                                                                          ) [CondTermStart]
+                                                                                        ) [ConditionStart]
+                                                                                      ) [ConditionalExpr1]
+                                                                                    ) [Expr]
+                                                                                  ) [DesignatorExpr]
+                                                                                ) [Var]
+                                                                              ) [Term1]
+                                                                            ) [SimpleExpr1]
+                                                                          ) [CondFact2]
+                                                                        ) [CondTermStart]
+                                                                      ) [ConditionStart]
+                                                                    ) [ConditionalExpr1]
+                                                                  ) [Expr]
+                                                                ) [ActParsAdd]
+                                                              ) [ActParsList1]
+                                                            ) [FuncCall]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                      ) [CondFact2]
+                                                    ) [CondTermStart]
+                                                  ) [ConditionStart]
+                                                ) [ConditionalExpr1]
+                                              ) [Expr]
+                                            ) [ActParsStart]
+                                            Expr(
+                                              ConditionalExpr1(
+                                                Empty(
+                                                ) [Empty]
+                                                ConditionStart(
+                                                  CondTermStart(
+                                                    CondFact2(
+                                                      SimpleExpr1(
+                                                        Term1(
+                                                          Var(
+                                                            DesignatorExpr(
+                                                              DesignatorName(
+                                                               niz
+                                                              ) [DesignatorName]
+                                                              Expr(
+                                                                ConditionalExpr1(
+                                                                  Empty(
+                                                                  ) [Empty]
+                                                                  ConditionStart(
+                                                                    CondTermStart(
+                                                                      CondFact2(
+                                                                        SimpleExpr1(
+                                                                          Term1(
+                                                                            NumConst(
+                                                                             2
+                                                                            ) [NumConst]
+                                                                          ) [Term1]
+                                                                        ) [SimpleExpr1]
+                                                                      ) [CondFact2]
+                                                                    ) [CondTermStart]
+                                                                  ) [ConditionStart]
+                                                                ) [ConditionalExpr1]
+                                                              ) [Expr]
+                                                            ) [DesignatorExpr]
+                                                          ) [Var]
+                                                        ) [Term1]
+                                                      ) [SimpleExpr1]
+                                                    ) [CondFact2]
+                                                  ) [CondTermStart]
+                                                ) [ConditionStart]
+                                              ) [ConditionalExpr1]
+                                            ) [Expr]
+                                          ) [ActParsAdd]
+                                        ) [ActParsList1]
+                                      ) [FuncCall]
+                                    ) [Term1]
+                                  ) [SimpleExpr1]
+                                ) [CondFact2]
+                              ) [CondTermStart]
+                            ) [ConditionStart]
+                          ) [ConditionalExpr1]
+                        ) [Expr]
+                        NoCN(
+                        ) [NoCN]
+                      ) [Printer]
+                    ) [PrintStmt]
+                  ) [MatchedStmt]
+                ) [Statements]
+                MatchedStmt(
+                  ForStmt(
+                    ForHelp(
+                    ) [ForHelp]
+                    DesignatorStmt1(
+                      DesignatorStatementExpr(
+                        DesignatorIdent(
+                         i
+                        ) [DesignatorIdent]
+                        Assignop(
+                        ) [Assignop]
+                        Expr(
+                          ConditionalExpr1(
+                            Empty(
+                            ) [Empty]
+                            ConditionStart(
+                              CondTermStart(
+                                CondFact2(
+                                  SimpleExpr1(
+                                    Term1(
+                                      NumConst(
+                                       0
+                                      ) [NumConst]
+                                    ) [Term1]
+                                  ) [SimpleExpr1]
+                                ) [CondFact2]
+                              ) [CondTermStart]
+                            ) [ConditionStart]
+                          ) [ConditionalExpr1]
+                        ) [Expr]
+                      ) [DesignatorStatementExpr]
+                    ) [DesignatorStmt1]
+                    Semi0(
+                    ) [Semi0]
+                    ConditionH1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact1(
+                            SimpleExpr1(
+                              Term1(
+                                Var(
+                                  DesignatorIdent(
+                                   i
+                                  ) [DesignatorIdent]
+                                ) [Var]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                            RelopLess(
+                            ) [RelopLess]
+                            SimpleExpr1(
+                              Term1(
+                                Var(
+                                  DesignatorLen(
+                                    DesignatorName(
+                                     niz
+                                    ) [DesignatorName]
+                                  ) [DesignatorLen]
+                                ) [Var]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                          ) [CondFact1]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionH1]
+                    Semi1(
+                    ) [Semi1]
+                    SemiHelp(
+                    ) [SemiHelp]
+                    ForDesignatorStmt(
+                      DesignatorStmt1(
+                        DesignatorStatementInc(
+                          DesignatorIdent(
+                           i
+                          ) [DesignatorIdent]
+                        ) [DesignatorStatementInc]
+                      ) [DesignatorStmt1]
+                    ) [ForDesignatorStmt]
+                    StatementHelp(
+                      MatchedStmt(
+                        ListStmt(
+                          Statements(
+                            NoStmt(
+                            ) [NoStmt]
+                            MatchedStmt(
+                              PrintStmt(
+                                Printer(
+                                  Expr(
+                                    ConditionalExpr1(
+                                      Empty(
+                                      ) [Empty]
+                                      ConditionStart(
+                                        CondTermStart(
+                                          CondFact2(
+                                            SimpleExpr1(
+                                              Term1(
+                                                Var(
+                                                  DesignatorIdent(
+                                                   i
+                                                  ) [DesignatorIdent]
+                                                ) [Var]
+                                              ) [Term1]
+                                            ) [SimpleExpr1]
+                                          ) [CondFact2]
+                                        ) [CondTermStart]
+                                      ) [ConditionStart]
+                                    ) [ConditionalExpr1]
+                                  ) [Expr]
+                                  NoCN(
+                                  ) [NoCN]
+                                ) [Printer]
+                              ) [PrintStmt]
+                            ) [MatchedStmt]
+                          ) [Statements]
+                        ) [ListStmt]
+                      ) [MatchedStmt]
+                    ) [StatementHelp]
+                  ) [ForStmt]
+                ) [MatchedStmt]
+              ) [Statements]
+              MatchedStmt(
+                PrintStmt(
+                  Printer(
+                    Expr(
+                      ConditionalExpr1(
+                        Empty(
+                        ) [Empty]
+                        ConditionStart(
+                          CondTermStart(
+                            CondFact2(
+                              SimpleExpr1(
+                                Term1(
+                                  Var(
+                                    DesignatorIdent(
+                                     eol
+                                    ) [DesignatorIdent]
+                                  ) [Var]
+                                ) [Term1]
+                              ) [SimpleExpr1]
+                            ) [CondFact2]
+                          ) [CondTermStart]
+                        ) [ConditionStart]
+                      ) [ConditionalExpr1]
+                    ) [Expr]
+                    NoCN(
+                    ) [NoCN]
+                  ) [Printer]
+                ) [PrintStmt]
+              ) [MatchedStmt]
+            ) [Statements]
+            MatchedStmt(
+              PrintStmt(
+                Printer(
+                  Expr(
+                    ConditionalExpr1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact2(
+                            SimpleExpr1(
+                              Term1(
+                                FuncCall(
+                                  DesignatorIdent(
+                                   inkrement
+                                  ) [DesignatorIdent]
+                                  ActParsList1(
+                                    ActParsAdd(
+                                      ActParsStart(
+                                        Expr(
+                                          ConditionalExpr1(
+                                            Empty(
+                                            ) [Empty]
+                                            ConditionStart(
+                                              CondTermStart(
+                                                CondFact2(
+                                                  SimpleExpr1(
+                                                    Term1(
+                                                      Var(
+                                                        DesignatorExpr(
+                                                          DesignatorName(
+                                                           niz
+                                                          ) [DesignatorName]
+                                                          Expr(
+                                                            ConditionalExpr1(
+                                                              Empty(
+                                                              ) [Empty]
+                                                              ConditionStart(
+                                                                CondTermStart(
+                                                                  CondFact2(
+                                                                    SimpleExpr1(
+                                                                      Term1(
+                                                                        NumConst(
+                                                                         2
+                                                                        ) [NumConst]
+                                                                      ) [Term1]
+                                                                    ) [SimpleExpr1]
+                                                                  ) [CondFact2]
+                                                                ) [CondTermStart]
+                                                              ) [ConditionStart]
+                                                            ) [ConditionalExpr1]
+                                                          ) [Expr]
+                                                        ) [DesignatorExpr]
+                                                      ) [Var]
+                                                    ) [Term1]
+                                                  ) [SimpleExpr1]
+                                                ) [CondFact2]
+                                              ) [CondTermStart]
+                                            ) [ConditionStart]
+                                          ) [ConditionalExpr1]
+                                        ) [Expr]
+                                      ) [ActParsStart]
+                                      Expr(
+                                        ConditionalExpr1(
+                                          Empty(
+                                          ) [Empty]
+                                          ConditionStart(
+                                            CondTermStart(
+                                              CondFact2(
+                                                SimpleExpr1(
+                                                  Term1(
+                                                    NumConst(
+                                                     2
+                                                    ) [NumConst]
+                                                  ) [Term1]
+                                                ) [SimpleExpr1]
+                                              ) [CondFact2]
+                                            ) [CondTermStart]
+                                          ) [ConditionStart]
+                                        ) [ConditionalExpr1]
+                                      ) [Expr]
+                                    ) [ActParsAdd]
+                                  ) [ActParsList1]
+                                ) [FuncCall]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                          ) [CondFact2]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionalExpr1]
+                  ) [Expr]
+                  NoCN(
+                  ) [NoCN]
+                ) [Printer]
+              ) [PrintStmt]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            PrintStmt(
+              Printer(
+                Expr(
+                  ConditionalExpr2(
+                    Empty(
+                    ) [Empty]
+                    ConditionStart(
+                      CondTermStart(
+                        CondFact2(
+                          SimpleExpr1(
+                            Term1(
+                              FuncCall(
+                                DesignatorIdent(
+                                 verify
+                                ) [DesignatorIdent]
+                                ActParsListE(
+                                ) [ActParsListE]
+                              ) [FuncCall]
+                            ) [Term1]
+                          ) [SimpleExpr1]
+                        ) [CondFact2]
+                      ) [CondTermStart]
+                    ) [ConditionStart]
+                    QuestionMark(
+                    ) [QuestionMark]
+                    ConditionalExprHelp(
+                      ConditionalExpr1(
+                        Empty(
+                        ) [Empty]
+                        ConditionStart(
+                          CondTermStart(
+                            CondFact2(
+                              SimpleExpr1(
+                                Term1(
+                                  CharConst(
+                                   t
+                                  ) [CharConst]
+                                ) [Term1]
+                              ) [SimpleExpr1]
+                            ) [CondFact2]
+                          ) [CondTermStart]
+                        ) [ConditionStart]
+                      ) [ConditionalExpr1]
+                    ) [ConditionalExprHelp]
+                    Colon1(
+                    ) [Colon1]
+                    ConditionalExpr1(
+                      Empty(
+                      ) [Empty]
+                      ConditionStart(
+                        CondTermStart(
+                          CondFact2(
+                            SimpleExpr1(
+                              Term1(
+                                CharConst(
+                                 f
+                                ) [CharConst]
+                              ) [Term1]
+                            ) [SimpleExpr1]
+                          ) [CondFact2]
+                        ) [CondTermStart]
+                      ) [ConditionStart]
+                    ) [ConditionalExpr1]
+                  ) [ConditionalExpr2]
+                ) [Expr]
+                NoCN(
+                ) [NoCN]
+              ) [Printer]
+            ) [PrintStmt]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          ForStmt(
+            ForHelp(
+            ) [ForHelp]
+            DesignatorStmt1(
+              DesignatorStatementExpr(
+                DesignatorIdent(
+                 i
+                ) [DesignatorIdent]
+                Assignop(
+                ) [Assignop]
+                Expr(
+                  ConditionalExpr1(
+                    Empty(
+                    ) [Empty]
+                    ConditionStart(
+                      CondTermStart(
+                        CondFact2(
+                          SimpleExpr1(
+                            Term1(
+                              NumConst(
+                               0
+                              ) [NumConst]
+                            ) [Term1]
+                          ) [SimpleExpr1]
+                        ) [CondFact2]
+                      ) [CondTermStart]
+                    ) [ConditionStart]
+                  ) [ConditionalExpr1]
+                ) [Expr]
+              ) [DesignatorStatementExpr]
+            ) [DesignatorStmt1]
+            Semi0(
+            ) [Semi0]
+            ConditionH1(
+              Empty(
+              ) [Empty]
+              ConditionStart(
+                CondTermStart(
+                  CondFact1(
+                    SimpleExpr1(
+                      Term1(
+                        Var(
+                          DesignatorIdent(
+                           i
+                          ) [DesignatorIdent]
+                        ) [Var]
+                      ) [Term1]
+                    ) [SimpleExpr1]
+                    RelopLess(
+                    ) [RelopLess]
+                    SimpleExpr1(
+                      Term1(
+                        NumConst(
+                         10
+                        ) [NumConst]
+                      ) [Term1]
+                    ) [SimpleExpr1]
+                  ) [CondFact1]
+                ) [CondTermStart]
+              ) [ConditionStart]
+            ) [ConditionH1]
+            Semi1(
+            ) [Semi1]
+            SemiHelp(
+            ) [SemiHelp]
+            ForDesignatorStmt(
+              DesignatorStmt1(
+                DesignatorStatementInc(
+                  DesignatorIdent(
+                   i
+                  ) [DesignatorIdent]
+                ) [DesignatorStatementInc]
+              ) [DesignatorStmt1]
+            ) [ForDesignatorStmt]
+            StatementHelp(
+              MatchedStmt(
+                ListStmt(
+                  Statements(
+                    Statements(
+                      NoStmt(
+                      ) [NoStmt]
+                      MatchedStmt(
+                        SwitchStmt(
+                          SwitchHelp(
+                          ) [SwitchHelp]
+                          Expr(
+                            ConditionalExpr1(
+                              Empty(
+                              ) [Empty]
+                              ConditionStart(
+                                CondTermStart(
+                                  CondFact2(
+                                    SimpleExpr2(
+                                      SimpleExpr1(
+                                        Term1(
+                                          Var(
+                                            DesignatorIdent(
+                                             i
+                                            ) [DesignatorIdent]
+                                          ) [Var]
+                                        ) [Term1]
+                                      ) [SimpleExpr1]
+                                      Addop1(
+                                      ) [Addop1]
+                                      Term1(
+                                        NumConst(
+                                         1
+                                        ) [NumConst]
+                                      ) [Term1]
+                                    ) [SimpleExpr2]
+                                  ) [CondFact2]
+                                ) [CondTermStart]
+                              ) [ConditionStart]
+                            ) [ConditionalExpr1]
+                          ) [Expr]
+                          CaseList2(
+                            Case(
+                              CaseHelp(
+                              ) [CaseHelp]
+                              Number1(
+                               1
+                              ) [Number1]
+                              Colon(
+                              ) [Colon]
+                              StatementListHelp(
+                                Statements(
+                                  Statements(
+                                    NoStmt(
+                                    ) [NoStmt]
+                                    MatchedStmt(
+                                      PrintStmt(
+                                        Printer(
+                                          Expr(
+                                            ConditionalExpr1(
+                                              Empty(
+                                              ) [Empty]
+                                              ConditionStart(
+                                                CondTermStart(
+                                                  CondFact2(
+                                                    SimpleExpr1(
+                                                      Term1(
+                                                        NumConst(
+                                                         1
+                                                        ) [NumConst]
+                                                      ) [Term1]
+                                                    ) [SimpleExpr1]
+                                                  ) [CondFact2]
+                                                ) [CondTermStart]
+                                              ) [ConditionStart]
+                                            ) [ConditionalExpr1]
+                                          ) [Expr]
+                                          NoCN(
+                                          ) [NoCN]
+                                        ) [Printer]
+                                      ) [PrintStmt]
+                                    ) [MatchedStmt]
+                                  ) [Statements]
+                                  MatchedStmt(
+                                    BreakStmt(
+                                    ) [BreakStmt]
+                                  ) [MatchedStmt]
+                                ) [Statements]
+                              ) [StatementListHelp]
+                            ) [Case]
+                            CaseList2(
+                              Case(
+                                CaseHelp(
+                                ) [CaseHelp]
+                                Number1(
+                                 3
+                                ) [Number1]
+                                Colon(
+                                ) [Colon]
+                                StatementListHelp(
+                                  Statements(
+                                    NoStmt(
+                                    ) [NoStmt]
+                                    MatchedStmt(
+                                      PrintStmt(
+                                        Printer(
+                                          Expr(
+                                            ConditionalExpr1(
+                                              Empty(
+                                              ) [Empty]
+                                              ConditionStart(
+                                                CondTermStart(
+                                                  CondFact2(
+                                                    SimpleExpr1(
+                                                      Term1(
+                                                        NumConst(
+                                                         3
+                                                        ) [NumConst]
+                                                      ) [Term1]
+                                                    ) [SimpleExpr1]
+                                                  ) [CondFact2]
+                                                ) [CondTermStart]
+                                              ) [ConditionStart]
+                                            ) [ConditionalExpr1]
+                                          ) [Expr]
+                                          NoCN(
+                                          ) [NoCN]
+                                        ) [Printer]
+                                      ) [PrintStmt]
+                                    ) [MatchedStmt]
+                                  ) [Statements]
+                                ) [StatementListHelp]
+                              ) [Case]
+                              CaseList2(
+                                Case(
+                                  CaseHelp(
+                                  ) [CaseHelp]
+                                  Number1(
+                                   2
+                                  ) [Number1]
+                                  Colon(
+                                  ) [Colon]
+                                  StatementListHelp(
+                                    Statements(
+                                      Statements(
+                                        NoStmt(
+                                        ) [NoStmt]
+                                        MatchedStmt(
+                                          PrintStmt(
+                                            Printer(
+                                              Expr(
+                                                ConditionalExpr1(
+                                                  Empty(
+                                                  ) [Empty]
+                                                  ConditionStart(
+                                                    CondTermStart(
+                                                      CondFact2(
+                                                        SimpleExpr1(
+                                                          Term1(
+                                                            NumConst(
+                                                             2
+                                                            ) [NumConst]
+                                                          ) [Term1]
+                                                        ) [SimpleExpr1]
+                                                      ) [CondFact2]
+                                                    ) [CondTermStart]
+                                                  ) [ConditionStart]
+                                                ) [ConditionalExpr1]
+                                              ) [Expr]
+                                              NoCN(
+                                              ) [NoCN]
+                                            ) [Printer]
+                                          ) [PrintStmt]
+                                        ) [MatchedStmt]
+                                      ) [Statements]
+                                      MatchedStmt(
+                                        BreakStmt(
+                                        ) [BreakStmt]
+                                      ) [MatchedStmt]
+                                    ) [Statements]
+                                  ) [StatementListHelp]
+                                ) [Case]
+                                CaseList2(
+                                  Case(
+                                    CaseHelp(
+                                    ) [CaseHelp]
+                                    Number1(
+                                     5
+                                    ) [Number1]
+                                    Colon(
+                                    ) [Colon]
+                                    StatementListHelp(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            NoStmt(
+                                            ) [NoStmt]
+                                            MatchedStmt(
+                                              PrintStmt(
+                                                Printer(
+                                                  Expr(
+                                                    ConditionalExpr1(
+                                                      Empty(
+                                                      ) [Empty]
+                                                      ConditionStart(
+                                                        CondTermStart(
+                                                          CondFact2(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                NumConst(
+                                                                 5
+                                                                ) [NumConst]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                          ) [CondFact2]
+                                                        ) [CondTermStart]
+                                                      ) [ConditionStart]
+                                                    ) [ConditionalExpr1]
+                                                  ) [Expr]
+                                                  NoCN(
+                                                  ) [NoCN]
+                                                ) [Printer]
+                                              ) [PrintStmt]
+                                            ) [MatchedStmt]
+                                          ) [Statements]
+                                          MatchedStmt(
+                                            Assignment(
+                                              DesignatorStatementExpr(
+                                                DesignatorIdent(
+                                                 i
+                                                ) [DesignatorIdent]
+                                                Assignop(
+                                                ) [Assignop]
+                                                Expr(
+                                                  ConditionalExpr1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr2(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                Var(
+                                                                  DesignatorIdent(
+                                                                   i
+                                                                  ) [DesignatorIdent]
+                                                                ) [Var]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                            Addop1(
+                                                            ) [Addop1]
+                                                            Term1(
+                                                              NumConst(
+                                                               2
+                                                              ) [NumConst]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr2]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionalExpr1]
+                                                ) [Expr]
+                                              ) [DesignatorStatementExpr]
+                                            ) [Assignment]
+                                          ) [MatchedStmt]
+                                        ) [Statements]
+                                        MatchedStmt(
+                                          ContinueStmt(
+                                          ) [ContinueStmt]
+                                        ) [MatchedStmt]
+                                      ) [Statements]
+                                    ) [StatementListHelp]
+                                  ) [Case]
+                                  CaseList2(
+                                    Case(
+                                      CaseHelp(
+                                      ) [CaseHelp]
+                                      Number1(
+                                       6
+                                      ) [Number1]
+                                      Colon(
+                                      ) [Colon]
+                                      StatementListHelp(
+                                        Statements(
+                                          NoStmt(
+                                          ) [NoStmt]
+                                          MatchedStmt(
+                                            PrintStmt(
+                                              Printer(
+                                                Expr(
+                                                  ConditionalExpr1(
+                                                    Empty(
+                                                    ) [Empty]
+                                                    ConditionStart(
+                                                      CondTermStart(
+                                                        CondFact2(
+                                                          SimpleExpr1(
+                                                            Term1(
+                                                              NumConst(
+                                                               6
+                                                              ) [NumConst]
+                                                            ) [Term1]
+                                                          ) [SimpleExpr1]
+                                                        ) [CondFact2]
+                                                      ) [CondTermStart]
+                                                    ) [ConditionStart]
+                                                  ) [ConditionalExpr1]
+                                                ) [Expr]
+                                                NoCN(
+                                                ) [NoCN]
+                                              ) [Printer]
+                                            ) [PrintStmt]
+                                          ) [MatchedStmt]
+                                        ) [Statements]
+                                      ) [StatementListHelp]
+                                    ) [Case]
+                                    CaseList1(
+                                      Case(
+                                        CaseHelp(
+                                        ) [CaseHelp]
+                                        Number1(
+                                         9
+                                        ) [Number1]
+                                        Colon(
+                                        ) [Colon]
+                                        StatementListHelp(
+                                          Statements(
+                                            NoStmt(
+                                            ) [NoStmt]
+                                            MatchedStmt(
+                                              PrintStmt(
+                                                Printer(
+                                                  Expr(
+                                                    ConditionalExpr1(
+                                                      Empty(
+                                                      ) [Empty]
+                                                      ConditionStart(
+                                                        CondTermStart(
+                                                          CondFact2(
+                                                            SimpleExpr1(
+                                                              Term1(
+                                                                NumConst(
+                                                                 9
+                                                                ) [NumConst]
+                                                              ) [Term1]
+                                                            ) [SimpleExpr1]
+                                                          ) [CondFact2]
+                                                        ) [CondTermStart]
+                                                      ) [ConditionStart]
+                                                    ) [ConditionalExpr1]
+                                                  ) [Expr]
+                                                  NoCN(
+                                                  ) [NoCN]
+                                                ) [Printer]
+                                              ) [PrintStmt]
+                                            ) [MatchedStmt]
+                                          ) [Statements]
+                                        ) [StatementListHelp]
+                                      ) [Case]
+                                    ) [CaseList1]
+                                  ) [CaseList2]
+                                ) [CaseList2]
+                              ) [CaseList2]
+                            ) [CaseList2]
+                          ) [CaseList2]
+                          Rbrace(
+                          ) [Rbrace]
+                        ) [SwitchStmt]
+                      ) [MatchedStmt]
+                    ) [Statements]
+                    MatchedStmt(
+                      PrintStmt(
+                        Printer(
+                          Expr(
+                            ConditionalExpr1(
+                              Empty(
+                              ) [Empty]
+                              ConditionStart(
+                                CondTermStart(
+                                  CondFact2(
+                                    SimpleExpr1(
+                                      Term1(
+                                        Var(
+                                          DesignatorIdent(
+                                           eol
+                                          ) [DesignatorIdent]
+                                        ) [Var]
+                                      ) [Term1]
+                                    ) [SimpleExpr1]
+                                  ) [CondFact2]
+                                ) [CondTermStart]
+                              ) [ConditionStart]
+                            ) [ConditionalExpr1]
+                          ) [Expr]
+                          NoCN(
+                          ) [NoCN]
+                        ) [Printer]
+                      ) [PrintStmt]
+                    ) [MatchedStmt]
+                  ) [Statements]
+                ) [ListStmt]
+              ) [MatchedStmt]
+            ) [StatementHelp]
+          ) [ForStmt]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:41:17,314 - ===================================
+INFO  14:41:17,324 - Formalni arg : z, [Kind:Var, Type:1, Adr:0, Lev:1] na liniji 15
+INFO  14:41:17,325 - Formalni arg : d, [Kind:Var, Type:1, Adr:1, Lev:1] na liniji 15
+INFO  14:41:17,325 - Formalni arg : inc, [Kind:Var, Type:1, Adr:1, Lev:1] na liniji 20
+INFO  14:41:17,326 - Simbolicka konstanta: jedan[Kind:Con, Type:1, Adr:1, Lev:0] na liniji 20
+INFO  14:41:17,326 - Lokalna prom: pom[Kind:Var, Type:1, Adr:2, Lev:1] na liniji 20
+INFO  14:41:17,326 - Formalni arg : inc, [Kind:Var, Type:1, Adr:1, Lev:1] na liniji 21
+INFO  14:41:17,326 - Lokalna prom: pom[Kind:Var, Type:1, Adr:2, Lev:1] na liniji 21
+INFO  14:41:17,327 - Formalni arg : a, [Kind:Var, Type:1, Adr:0, Lev:1] na liniji 21
+INFO  14:41:17,327 - Formalni arg : a, [Kind:Var, Type:1, Adr:0, Lev:1] na liniji 23
+INFO  14:41:17,327 - Lokalna prom: pom[Kind:Var, Type:1, Adr:2, Lev:1] na liniji 23
+INFO  14:41:17,327 - Poziv globalne fje: sum[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 23
+INFO  14:41:17,328 - Globalna prom: ibool[Kind:Var, Type:5, Adr:1, Lev:0] na liniji 36
+INFO  14:41:17,328 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 37
+INFO  14:41:17,328 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 38
+INFO  14:41:17,328 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 38
+INFO  14:41:17,329 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 38
+INFO  14:41:17,329 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 40
+INFO  14:41:17,329 - Globalna prom: ibool[Kind:Var, Type:5, Adr:1, Lev:0] na liniji 40
+INFO  14:41:17,329 - Globalna prom: ibool[Kind:Var, Type:5, Adr:1, Lev:0] na liniji 43
+INFO  14:41:17,329 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 44
+INFO  14:41:17,329 - Globalna prom: niz[Kind:Var, Type:3, Adr:2, Lev:0] na liniji 47
+INFO  14:41:17,330 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 48
+INFO  14:41:17,330 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 49
+INFO  14:41:17,330 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 50
+INFO  14:41:17,330 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 50
+INFO  14:41:17,331 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 50
+INFO  14:41:17,331 - Poziv globalne fje: sum[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 50
+INFO  14:41:17,331 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 51
+INFO  14:41:17,331 - Poziv globalne fje: verify[Kind:Meth, Type:5, Adr:0, Lev:0] na liniji 51
+INFO  14:41:17,331 - Poziv globalne fje: ord[Kind:Meth, Type:1, Adr:0, Lev:1] na liniji 51
+INFO  14:41:17,331 - Poziv globalne fje: ord[Kind:Meth, Type:1, Adr:0, Lev:1] na liniji 52
+INFO  14:41:17,331 - Simbolicka konstanta: eol[Kind:Con, Type:2, Adr:10, Lev:0] na liniji 54
+INFO  14:41:17,331 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 55
+INFO  14:41:17,331 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 56
+INFO  14:41:17,331 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 58
+INFO  14:41:17,332 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 60
+INFO  14:41:17,332 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 63
+INFO  14:41:17,332 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 64
+INFO  14:41:17,332 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 64
+INFO  14:41:17,332 - Poziv globalne fje: inkrement[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 64
+INFO  14:41:17,332 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 67
+INFO  14:41:17,332 - Poziv globalne fje: verify[Kind:Meth, Type:5, Adr:0, Lev:0] na liniji 67
+INFO  14:41:17,332 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 70
+INFO  14:41:17,332 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 71
+INFO  14:41:17,332 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 72
+INFO  14:41:17,332 - Simbolicka konstanta: eol[Kind:Con, Type:2, Adr:10, Lev:0] na liniji 73
+INFO  14:41:17,332 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 75
+INFO  14:41:17,333 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 75
+INFO  14:41:17,333 - Poziv globalne fje: sum[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 75
+INFO  14:41:17,333 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 75
+INFO  14:41:17,333 - Poziv globalne fje: sum[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 75
+INFO  14:41:17,333 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 77
+INFO  14:41:17,333 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 77
+INFO  14:41:17,333 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 77
+INFO  14:41:17,333 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 78
+INFO  14:41:17,333 - Simbolicka konstanta: eol[Kind:Con, Type:2, Adr:10, Lev:0] na liniji 81
+INFO  14:41:17,333 - Pristup el niza: niz[Kind:Elem, Type:1, Adr:-1, Lev:-1] na liniji 82
+INFO  14:41:17,333 - Poziv globalne fje: inkrement[Kind:Meth, Type:1, Adr:0, Lev:2] na liniji 82
+INFO  14:41:17,333 - Poziv globalne fje: verify[Kind:Meth, Type:5, Adr:0, Lev:0] na liniji 83
+INFO  14:41:17,333 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 85
+INFO  14:41:17,334 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 85
+INFO  14:41:17,334 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 85
+INFO  14:41:17,334 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 86
+INFO  14:41:17,334 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 97
+INFO  14:41:17,334 - Globalna prom: i[Kind:Var, Type:1, Adr:0, Lev:0] na liniji 97
+INFO  14:41:17,334 - Simbolicka konstanta: eol[Kind:Con, Type:2, Adr:10, Lev:0] na liniji 104
+INFO  14:41:17,336 -  Print count calls = 23
+INFO  14:41:17,336 -  Deklarisanih promenljivih ima = 4
+INFO  14:41:17,336 - ===================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Type enum: , -1, -1 
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var ibool: , 1, 0 
+   Var niz: Arr of int, 2, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+
+INFO  14:41:17,339 - Parsiranje uspesno zavrseno!

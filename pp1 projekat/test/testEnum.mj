@@ -1,0 +1,67 @@
+program b
+
+int x;
+int niz[];
+
+enum Broj { NULA, JEDAN, PET=5, DESET=10}
+
+
+
+{
+
+	Broj vratiBrojJEDAN() {
+        return Broj.JEDAN;
+    }
+
+    int vrati0() {
+        return 0;
+    }
+
+    int Inkrement(int x) {
+        return x + 1;
+    }
+
+    Broj enumVracen(Broj x) {
+        return x;
+    }
+
+	void main() int a[]; int y; Broj nula, jedan; {
+		a = new int[6];
+		x = a.length;
+		print(x);
+		print(eol);
+		
+		print('-');
+		print(eol);
+		nula = Broj.NULA;
+		jedan = Broj.JEDAN;
+		print(jedan);
+		print(eol);
+		print(Broj.PET);
+		print(eol);
+		niz = new int[3];
+		niz[jedan] = 3;
+		niz[nula] = 2;
+		niz[niz[nula]] = niz[1] * 4;
+		
+		print(niz[2]);
+		print(eol);
+		
+		y = vratiBrojJEDAN();
+		print(y);
+		print(eol);
+		
+		//GRESKE ZA DODELE INTA ENUMU:
+		//nula = vrati0();  
+		//nula = Inkrement(jedan); 
+		
+		y = Inkrement(jedan);
+		print(y);
+		print(eol);
+		
+		y = enumVracen(jedan);
+		print(y);
+		print(eol);
+	}
+
+}

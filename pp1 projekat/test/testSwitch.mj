@@ -1,0 +1,33 @@
+program Pr
+
+const int pi = 3;
+int x;
+{
+
+	void main() int i; {
+		
+		for (i = 0; i < 10; i++) {
+			switch(i+1){
+				case 1:
+					print(1);
+					break;
+				case 3:
+					print(3);
+				case 2:
+					print(2);
+					break;
+				case 5:
+					print(5);
+					i = i + 2;
+					continue;
+				case 6:
+					print(6);
+				case 9:
+					print(9);
+			}
+			print(eol);
+		}
+	}
+	
+}
+			

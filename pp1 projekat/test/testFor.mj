@@ -1,0 +1,38 @@
+program a
+
+{
+
+void main() int i; int j;{
+	for(i=0;i<4;i++){
+		print(i);
+		print(eol);
+		if(i==2){
+			break;
+		}
+		for(j=0;j<6;j++){
+			if(j==3){
+				print('b');
+				continue;
+				break;
+			}
+			if(j>4){
+				break;
+			} else {
+				if(j<2){
+					print(j+5);
+				} else {
+					print(j+10);	
+				}
+			}	
+				print(eol);
+		}
+		print('a');	
+	}
+	
+
+	
+	
+
+}
+
+}

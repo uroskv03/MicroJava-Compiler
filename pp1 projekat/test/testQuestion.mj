@@ -1,0 +1,33 @@
+// Test301
+
+program test301
+
+int a;
+	
+{
+	void main()	
+		int bodovi;
+		int temp;
+	{
+		bodovi = 0;
+		if(bodovi <5)
+		print(3);
+		print(eol);
+		print(true ? bodovi : bodovi + 10);
+		print(eol);
+		print(false ? bodovi + 20 : bodovi + 30);
+		print(eol);
+		print(bodovi > 10 ? 1 : 2);
+		print(eol);
+		print(bodovi < 10 ? 1 : 2);
+		print('a');
+		
+		temp = bodovi < 10 ? 1 : 2;
+		print(temp);
+		
+		//temp = bodovi < 10 ? 1 : 'a';  //GREKSA exprovi nisu istog tipa
+		//temp = bodovi < 10 ? 'b' : 'a';  //GREKSA dodela loseg tipa
+	}
+}
+
+

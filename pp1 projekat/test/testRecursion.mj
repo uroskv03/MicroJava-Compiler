@@ -1,0 +1,22 @@
+program Prog
+
+{
+
+	int f2( int x, bool b, int g ) int a; {return f2(f2(x, b, g), b, f2(x, b, g)) + a + 1;}
+	int f1(int x) { 
+		print(x);
+		print(eol);
+		if(x>2) { return f1(x-1); } 
+		else { 
+			return 0;
+		}
+		
+	} 
+	void main()
+	{
+	
+		f1(10);
+		return;
+	}
+
+}
