@@ -25,7 +25,7 @@ Enforced static semantics and type rules (ensuring variables are declared before
 
 Performed AST traversal using the Visitor pattern to populate the Symbol Table and manage scopes.
 
-Handled method signatures, inheritance rules, and array initialization checks.
+Handled method signatures, inheritance rules, array initialization checks and enum type validation.
 
 ## Code Generation
 
