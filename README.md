@@ -51,7 +51,7 @@ Libraries: mj-runtime, symboltable, log4j
 
 ## How to Run
 
-Run the repackage target in build.xml. This automatically triggers the generation of the Lexer and Parser and organizes the packages correctly.
+Run the compile or repackage target in build.xml. This automatically triggers the generation of the Lexer and Parser and organizes the packages correctly.
 
 Run MJTest.java. Within this file, you can configure the output to be redirected to an external file.
 
